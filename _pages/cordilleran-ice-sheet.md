@@ -20,17 +20,17 @@ ranges of the Western Cordillera.
 {% include flickr.html
   src="https://live.staticflickr.com/65535/49298982311_4c16206d04_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49298342428/"
-  caption="Tuya Lake moraines" %}
+  class="thumbnail" caption="Tuya Lake moraines" %}
 
 {% include flickr.html
   src="https://live.staticflickr.com/65535/49298342548_9683726e9d_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49298342548/"
-  caption="Floatplane" %}
+  class="thumbnail" caption="Floatplane" %}
 
 {% include flickr.html
   src="https://live.staticflickr.com/65535/49299033172_02356fc2a8_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49299033172/"
-  caption="Meltwater channels" %}
+  class="thumbnail" caption="Meltwater channels" %}
 
 
 Glacier modelling

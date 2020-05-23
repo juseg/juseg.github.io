@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // Custom style
-.flickr {display: inline-block; max-width: 200px; vertical-align: top}
+.thumbnail {display: inline-block; max-width: 200px; vertical-align: top}
 
 // Load skin and theme
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
