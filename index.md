@@ -1,16 +1,37 @@
 ---
+title: About
 layout: single
-classes: wide
 ---
 
-I was a glaciologist working at [ETH Zürich](http://www.ethz.ch) on field
-measurements from Greenland
-([Bowdoin Glacier]({% link _pages/bowdoin-glacier.md %})) and numerical
-modelling of past ([Alpine]({%link _pages/alpine-ice-sheet.md %}) and
-[Cordilleran]({% link _pages/cordilleran-ice-sheet.md %})) ice sheets.
+Welcome to my personal homepage! For ten years I have worked as a
+glaciologist, researching the dynamics of modern and ancient glaciers. During
+my short career I had the luck to meet very inspiring mentors and be part of
+exciting research groups, particularly at [Stockholm University][SU], [ETH
+Zürich][ETHZ] and [Hokkaido University][HU]. I have worked on measurements from
+Greenland ([Bowdoin Glacier](/bowdoin-glacier/)) and numerical modelling of
+past ([Alpine](/alpine-ice-sheet/) and [Cordilleran](/cordilleran-ice-sheet/))
+ice sheets.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/pyjeo/49299032507/" title="Glacier Blanc">
-    <img src="https://live.staticflickr.com/65535/49299032507_0a1c639f5c_c.jpg" width="800" height="400" alt="Glacier Blanc">
-</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{% include flickr.html
+   src="https://live.staticflickr.com/65535/49299032507_0a1c639f5c_c.jpg"
+   href="https://www.flickr.com/photos/pyjeo/49299032507/"
+   caption="Glacier Blanc, French Alps" %}
 
-Current living in Lille, northern France.
+On a more practical level, this implies that I have spent most of the last ten
+years writing Python code and then, through a collaborative process of intense
+debate, mushing it up into carefully crafted pieces of text in a foreign
+language I have learned so hard I now frown upon the missing Oxford commas. But
+a few times, I also had the incredible privilege to participate in fieldwork in
+remote cold corners of the Earth, such as the Canadian Cordillera and
+northwestern Greenland.
+
+Following the coronavirus pandemic, I am currently stranded and without a job
+in my hometown Lille in northern France where I take the time for things I have
+left aside in years and nourish the secret hope to perhaps one day receive a
+salary again. This page is currently under migration and upgrade from its
+previous [location](https://people.ee.ethz.ch/~juliens/). So I am also back to
+coding and learning Jekyll.
+
+[SU]: https://www.natgeo.su.se/english/
+[ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
+[HU]: https://www.arc.hokudai.ac.jp/en/
