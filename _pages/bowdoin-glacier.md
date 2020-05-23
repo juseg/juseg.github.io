@@ -61,22 +61,12 @@ These results shed light on a new mechanism contributing to the observed
 acceleration of ocean-terminating glaciers in Greenland.
 
 <!-- FIXME improve video and upload to vimeo -->
-<figure>
-  <video controls>
-    <source src="https://polybox.ethz.ch/index.php/s/U7Cbgs016TkndzX/download"
-            type="video/mp4"/>
-    <source src="https://polybox.ethz.ch/index.php/s/bNovMorkDmNmOEI/download"
-            type="video/ogg"/>
-    Your browser does not support HTML5 video.
-  </video>
-  <figcaption>
-    Summer snow melt, iceberg calving and sea ice breakoff in Bowdoin Fjord.
-    Contains modified <a class="reference external"
-    href="http://www.copernicus.eu">Copernicus</a> Sentinel data (2016).
-    Processed with <a class="reference external"
-    href="https://github.com/juseg/sentinelflow">Sentinelflow</a>.
-  </figcaption>
-</figure>
+{% include video.html
+  src="https://polybox.ethz.ch/index.php/s/U7Cbgs016TkndzX/download"
+  caption="Summer snow melt, iceberg calving and sea ice breakoff in Bowdoin
+           Fjord. Contains modified [Copernicus](http://www.copernicus.eu)
+           Sentinel data (2016). Processed with
+           [Sentinelflow](https://github.com/juseg/sentinelflow)." %}
 
 [ARC]: https://www.arc.hokudai.ac.jp/en/
 [HU]: https://www.global.hokudai.ac.jp
