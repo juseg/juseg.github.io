@@ -1,0 +1,9 @@
+menu:
+  - title: "Projects"
+    children:
+      - title: "Alpine ice sheet"
+        url: /alpine-ice-sheet/
+      - title: "Bowdoin Glacier"
+        url: /bowdoin-glacier/
+      - title: "Cordilleran ice sheet"
+        url: /cordilleran-ice-sheet/
