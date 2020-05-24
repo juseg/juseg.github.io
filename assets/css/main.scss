@@ -4,8 +4,10 @@
 
 @charset "utf-8";
 
-// Custom style
-.thumbnail {display: inline-block; max-width: 200px; vertical-align: top}
+// Custom style (margin 0 1% looks better on wide layouts)
+.poster, .thumbnail {display: inline-block; margin: 0; min-width: 200px; width: 30%; vertical-align: top}
+.poster > a {height: 200px; overflow: hidden}
+.poster > a > img {max-width: none; width: auto}
 
 // Load skin and theme
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
