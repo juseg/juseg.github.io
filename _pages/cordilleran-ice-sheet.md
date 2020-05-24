@@ -45,7 +45,7 @@ the major topographical troughs, and sometimes flowing across them. The
 complexity of regional climate adds to the complexity of topography. Strong
 differences in seasonality and timing of precipitation exist, for instance,
 between the rain-drenched coastal areas, and the dry interior
-(see doi: [10.5194/tc-8-1087-2014](https://doi.org/10.5194/tc-8-1087-2014)).
+(<https://doi.org/10.5194/tc-8-1087-2014>).
 
 For my PhD project, my colleagues and I used the Parallel Ice Sheet Model
 [PISM][PISM] to simulate Cordilleran glacier dynamics through the last glacial
@@ -53,7 +53,7 @@ cycle. Due to the mountainous topography on which the ice sheet formed,
 ice-sheet-wide spatial reconstructions of advance and retreat patterns have
 been lacking, so that we relied on geological studies of local or regional
 relevance to validate our simulations
-(see doi: [10.5194/tc-10-639-2016](https://doi.org/10.5194/tc-10-639-2016)).
+(<https://doi.org/10.5194/tc-10-639-2016>).
 
 <!-- FIXME improve video and upload to vimeo -->
 {% include video.html

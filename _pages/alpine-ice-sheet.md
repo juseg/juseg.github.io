@@ -44,8 +44,7 @@ glaciers in time.
 The simulations run on the Swiss National Supercomputing Centre ([CSCS][CSCS])
 Piz Daint, the fastest supercomputer in Europe and among the fastest in the
 World (see [TOP500][TOP500]). In a study recently published in the open-access
-journal The Cryosphere
-(doi: [10.5194/tc-12-3265-2018](https://doi.org/10.5194/tc-12-3265-2018)), we
+journal The Cryosphere (<https://doi.org/10.5194/tc-12-3265-2018>), we
 present a detailed reconstruction of Alpine glaciers multiple cycles of growth
 and decay from 120000 years ago to today, a period that spans the last glacial
 cycle (see [ETH News][ETH News], [NZZ][NZZ]).

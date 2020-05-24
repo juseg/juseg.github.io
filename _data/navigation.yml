@@ -7,3 +7,13 @@ menu:
         url: /bowdoin-glacier/
       - title: "Cordilleran ice sheet"
         url: /cordilleran-ice-sheet/
+  - title: "Releases"
+    children:
+      - title: "Research papers"
+        url: /research-papers/
+      - title: "Software & data"
+        url: /software-data/
+      - title: "Talks & posters"
+        url: /talks-posters/
+      - title: "Outreach & press"
+        url: /outreach-press/
