@@ -17,3 +17,7 @@ menu:
         url: /talks-posters/
       - title: "Outreach & press"
         url: /outreach-press/
+  - title: "Images"
+    children:
+      - title: "Glacier retreat"
+        url: /glacier-retreat/
