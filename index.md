@@ -33,13 +33,6 @@ left aside in years and nourish the secret hope to perhaps one day receive a
 salary again.
 {: .notice--info}
 
-**Warning:**
-This page is currently under migration and upgrade from its previous location
-([there](https://people.ee.ethz.ch/~juliens/)) and engine
-([Sphinx](sphinx-doc.org)). So I am also back to coding, and learning Jekyll.
-I just mastered the yellow-coloured warning box.
-{: .notice--warning}
-
 [SU]: https://www.natgeo.su.se/english/
 [ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
 [HU]: https://www.arc.hokudai.ac.jp/en/
