@@ -1,7 +1,6 @@
 ---
 title: Alpine ice sheet
 permalink: /alpine-ice-sheet/
-leaflet: true
 ---
 
 Context
@@ -73,11 +72,11 @@ simulation provides a detailed picture of glacier growth and decay, but
 discrepancies with the geological data remain, and more observations are needed
 to validate the accuracy of the results.
 
-<figure>
+<!-- <figure>
   <div id="icemap"></div>
   <script type="text/javascript" src="/assets/js/icemap.js"></script>
   <figcaption>Zoom in and explore different ages. Best viewed fullscreen.</figcaption>
-</figure>
+</figure> -->
 
 [Collombey]: https://agenda.culturevalais.ch/fr/event/show/15208
 [Naters]: https://agenda.culturevalais.ch/fr/event/show/14762
