@@ -15,8 +15,8 @@ French Alps
 ### Glacier Blanc
 
 {% include juxtapose.html
-  image1="glblanc_20150829_103705_317_S2A_RGB.jpg"
-  image2="glblanc_20190818_103839_166_S2A_RGB.jpg"
+  image1="https://live.staticflickr.com/65535/49944421172_956990cd81_o_d.jpg"
+  image2="https://live.staticflickr.com/65535/49944127291_d003378f21_o_d.jpg"
   label1="Aug. 29, 2015"
   label2="Aug. 18, 2019"
   caption="Glacier Blanc in 2015 and 2019." %}
@@ -36,8 +36,8 @@ mountain is uninhibited in winter.
 ### Glaciers de la Vanoise
 
 {% include juxtapose.html
-   image1="vanoise_20150829_103705_317_S2A_RGB.jpg"
-   image2="vanoise_20190818_103821_484_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944420972_32cf6ce553_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49944420947_dc9a004004_o_d.jpg"
    label1="Aug. 29, 2015"
    label2="Aug. 18, 2019"
    caption="Glaciers de la Vanoise in 2015 and 2019." %}
@@ -55,8 +55,8 @@ the image.
 ### Mer de Glace
 
 {% include juxtapose.html
-   image1="merdeglace_20150829_103705_317_S2A_RGB.jpg"
-   image2="merdeglace_20190823_103823_693_S2B_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944421107_89c11e29a3_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49943619708_d17813be01_o_d.jpg"
    label1="Aug. 29, 2015"
    label2="Aug. 23, 2019"
    caption="Mer de Glace in 2015 and 2019." %}
@@ -78,8 +78,8 @@ Swiss Alps
 ### Gorner Glacier
 
 {% include juxtapose.html
-   image1="gorner_20150829_103705_317_S2A_RGB.jpg"
-   image2="gorner_20190904_102817_676_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944127281_1d98386dc5_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49944127266_6e08f46ca0_o_d.jpg"
    label1="Aug. 29, 2015"
    label2="Sep.  4, 2019"
    caption="Gorner Glacier in 2015 and 2019." %}
@@ -100,8 +100,8 @@ frontal retreat of the terminal tongue.
 ### Aletsch Glacier
 
 {% include juxtapose.html
-   image1="aletsch_20150829_103705_317_S2A_RGB.jpg"
-   image2="aletsch_20190904_102803_314_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944421187_11b1147aaf_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49944127331_17cd16e9e8_o_d.jpg"
    label1="Aug. 29, 2015"
    label2="Sep.  4, 2019"
    caption="Aletsch Glacier in 2015 and 2019." %}
@@ -120,8 +120,8 @@ the higher mountains is also diminishing.
 ### Unteraar Glacier
 
 {% include juxtapose.html
-   image1="unteraar_20150829_103705_317_S2A_RGB.jpg"
-   image2="unteraar_20190904_102803_314_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944421012_796ff461e9_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49944420982_4106614e06_o_d.jpg"
    label1="Aug. 29, 2015"
    label2="Sep.  4, 2019"
    caption="Unteraar Glacier in 2015 and 2019." %}
@@ -140,8 +140,8 @@ of smaller glaciers at high elevations.
 ### Rhone Glacier
 
 {% include juxtapose.html
-   image1="rhone_20150829_103705_317_S2A_RGB.jpg"
-   image2="rhone_20190904_102803_314_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944421047_7855afb258_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49944421032_c2f7600d9d_o_d.jpg"
    label1="Aug. 29, 2015"
    label2="Sep.  4, 2019"
    caption="Rhone Glacier in 2015 and 2019." %}
@@ -159,8 +159,8 @@ ice below to melt slower than its surroundings.
 ### Morteratsch Glacier
 
 {% include juxtapose.html
-   image1="morteratsch_20150826_102655_711_S2A_RGB.jpg"
-   image2="morteratsch_20190904_102759_658_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49944127216_ff6dc39b7c_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49944127206_522a9a3d9b_o_d.jpg"
    label1="Aug. 26, 2015"
    label2="Sep.  4, 2019"
    caption="Morteratsch Glacier in 2015 and 2019." %}
@@ -180,8 +180,8 @@ Italian Alps
 ### Adamello Glacier
 
 {% include juxtapose.html
-   image1="adamello_20150826_102655_711_S2A_RGB.jpg"
-   image2="adamello_20190904_102755_334_S2A_RGB.jpg"
+   image1="https://live.staticflickr.com/65535/49943619893_5fa7e147ed_o_d.jpg"
+   image2="https://live.staticflickr.com/65535/49943619863_0be99d0346_o_d.jpg"
    label1="Aug. 26, 2015"
    label2="Sep.  4, 2019"
    caption="Adamello Glacier in 2015 and 2019" %}
