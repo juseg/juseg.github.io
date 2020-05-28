@@ -1,8 +1,10 @@
 ---
-title: Glaciers retreat
+title: Glacier retreat
 permalink: /glacier-retreat/
 beerslider: true
 ---
+
+<!-- FIXME add links to pictures on Flickr? -->
 
 Throughout the Alps glaciers currently experience rapid retreat. Even over a
 short time interval of four years, this retreat and the thinning of glaciers is
