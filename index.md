@@ -12,7 +12,7 @@ Greenland ([Bowdoin Glacier](/bowdoin-glacier/)) and numerical modelling of
 past ([Alpine](/alpine-ice-sheet/) and [Cordilleran](/cordilleran-ice-sheet/))
 ice sheets.
 
-{% include flickr.html
+{% include figure.html
    src="https://live.staticflickr.com/65535/49299032507_0a1c639f5c_b.jpg"
    href="https://www.flickr.com/photos/pyjeo/49299032507/"
    caption="Glacier Blanc, French Alps" %}

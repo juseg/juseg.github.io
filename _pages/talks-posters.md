@@ -6,17 +6,17 @@ permalink: /talks-posters/
 Selected previews
 -----------------
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/49309021758_c1d021b87c_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49309021758/" class="poster"
   caption="[[21](https://www.flickr.com/photos/pyjeo/49309021758/)] EGU 2018" %}
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/49309726162_b568fee873_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49309726162/" class="poster"
   caption="[[10](https://www.flickr.com/photos/pyjeo/49309022258)] SGM 2015" %}
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49309022258/" class="poster"
   caption="[[10](https://www.flickr.com/photos/pyjeo/49309022258)] EGU 2014" %}

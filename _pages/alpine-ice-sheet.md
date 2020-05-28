@@ -15,17 +15,17 @@ glaciation are most abundant and well-studied. About 25 000 years ago, glacier
 filled most valleys in the Alps, and even extended onto the plains that are now
 parts of France, Switzerland, Italy, Austria and Slovenia.
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/48920309508_3e3d6528a5_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/48920309508/"
   class="thumbnail" caption="Roche moutonnée" %}
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/48838720096_63c8bbc63a_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/48838720096/"
   class="thumbnail" caption="Little Ice Age" %}
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/48844296952_bf69355fdb_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/48844296952/"
   class="thumbnail" caption="Glacial valley" %}

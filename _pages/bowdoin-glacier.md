@@ -26,17 +26,17 @@ in the late-nineteenth century and described in the following terms:
 > Mater, Bowdoin Glacier, and the bay I called Bowdoin Bay (Robert E. Peary,
 > *Northward over the Great Ice*, 1898, p. 393--394).
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/49298828541_bac0c76a05_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49298829236/"
   class="thumbnail" caption="Before calving" %}
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/49298343083_b4fc95b8a9_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49298829236/"
   class="thumbnail" caption="Longitudinal strain" %}
 
-{% include flickr.html
+{% include figure.html
   src="https://live.staticflickr.com/65535/49298829236_d1e9b71afa_w_d.jpg"
   href="https://www.flickr.com/photos/pyjeo/49298829236/"
   class="thumbnail" caption="Meltwater creek" %}
