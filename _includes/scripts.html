@@ -1,0 +1,22 @@
+
+<!-- ## FOOTER SCRIPTS
+  This file overrides the theme's scripts template available at:
+  https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/scripts.html
+  The default template has options for custom search engines, analytics,
+  comment providers, and uses site-wide configuration variables
+  site.footer_scripts and site.after_footer_scripts. -->
+
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+<script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+<!-- ### Search engine -->
+{% include_cached search/lunr-search-scripts.html %}
+
+{% if page.beerslider %}
+<!-- ### Beer Slider
+  Activate Beer slider and small script allowing multiple image sliders on one
+  page with default or customizable options. For more info see:
+  https://github.com/pehaa/beerslider -->
+  <script src="https://unpkg.com/beerslider/dist/BeerSlider.js"></script>
+  <script src="{{ '/assets/js/beersliders.js' | relative_url }}"></script>
+{% endif %}

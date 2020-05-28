@@ -1,6 +1,7 @@
 ---
 title: Glaciers retreat
 permalink: /glacier-retreat/
+beerslider: true
 ---
 
 Throughout the Alps glaciers currently experience rapid retreat. Even over a
@@ -14,7 +15,7 @@ French Alps
 
 ### Glacier Blanc
 
-{% include juxtapose.html
+{% include beerslider.html
   image1="https://live.staticflickr.com/65535/49944421172_fac729144a_b_d.jpg"
   image2="https://live.staticflickr.com/65535/49944127291_49b57ccd74_b_d.jpg"
   label1="Aug. 29, 2015"
@@ -35,7 +36,7 @@ mountain is uninhibited in winter.
 
 ### Glaciers de la Vanoise
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944420972_e0f8aaa7b6_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49944420947_c9cff7af0c_b_d.jpg"
    label1="Aug. 29, 2015"
@@ -54,7 +55,7 @@ the image.
 
 ### Mer de Glace
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944421107_bdd6a97242_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49943619708_847ef5537a_b_d.jpg"
    label1="Aug. 29, 2015"
@@ -77,7 +78,7 @@ Swiss Alps
 
 ### Gorner Glacier
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944127281_6e9e1208f1_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49944127266_c7665976fe_b_d.jpg"
    label1="Aug. 29, 2015"
@@ -99,7 +100,7 @@ frontal retreat of the terminal tongue.
 
 ### Aletsch Glacier
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944421187_d8395a6ddf_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49944127331_7c1b3a9c67_b_d.jpg"
    label1="Aug. 29, 2015"
@@ -119,7 +120,7 @@ the higher mountains is also diminishing.
 
 ### Unteraar Glacier
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944421012_d95df322bd_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49944420982_db9dcbf0bc_b_d.jpg"
    label1="Aug. 29, 2015"
@@ -139,7 +140,7 @@ of smaller glaciers at high elevations.
 
 ### Rhone Glacier
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944421047_94be5e12d2_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49944421032_55fe087b55_b_d.jpg"
    label1="Aug. 29, 2015"
@@ -158,7 +159,7 @@ ice below to melt slower than its surroundings.
 
 ### Morteratsch Glacier
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49944127216_8b15caf09b_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49944127206_ec8938fa0e_b_d.jpg"
    label1="Aug. 26, 2015"
@@ -179,7 +180,7 @@ Italian Alps
 
 ### Adamello Glacier
 
-{% include juxtapose.html
+{% include beerslider.html
    image1="https://live.staticflickr.com/65535/49943619893_b84be22897_b_d.jpg"
    image2="https://live.staticflickr.com/65535/49943619863_1dec4af9d9_b_d.jpg"
    label1="Aug. 26, 2015"

@@ -9,6 +9,9 @@
 .poster > a {height: 200px; overflow: hidden}
 .poster > a > img {max-width: none; width: auto}
 
+// Prevent word wrapping on slider labels
+.beer-reveal[data-beer-label]::after {white-space: nowrap}
+
 // Leaflet interactive map
 #icemap {width: 100%; height: 400px}
 #icemap .timecontrol-date {min-width: 6em}
