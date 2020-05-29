@@ -18,18 +18,21 @@ Finally, the Cordilleran ice sheet, intermediate in size, capped the mountain
 ranges of the Western Cordillera.
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49298982311_4c16206d04_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49298342428/"
+  src="https://live.staticflickr.com/65535/49298982311_4c16206d04_w.jpg"
+  href="https://live.staticflickr.com/65535/49298982311_4c16206d04_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49298342428/"
   class="thumbnail" caption="Tuya Lake moraines" %}
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49298342548_9683726e9d_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49298342548/"
+  src="https://live.staticflickr.com/65535/49298342548_9683726e9d_w.jpg"
+  href="https://live.staticflickr.com/65535/49298342548_9683726e9d_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49298342548/"
   class="thumbnail" caption="Floatplane" %}
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49299033172_02356fc2a8_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49299033172/"
+  src="https://live.staticflickr.com/65535/49299033172_02356fc2a8_w.jpg"
+  href="https://live.staticflickr.com/65535/49299033172_02356fc2a8_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49299033172/"
   class="thumbnail" caption="Meltwater channels" %}
 
 

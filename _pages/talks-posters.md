@@ -7,19 +7,22 @@ Selected previews
 -----------------
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49309021758_c1d021b87c_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49309021758/" class="poster"
-  caption="[[21](https://www.flickr.com/photos/pyjeo/49309021758/)] EGU 2018" %}
+  src="https://live.staticflickr.com/65535/49309021758_c1d021b87c_w.jpg"
+  href="https://live.staticflickr.com/65535/49309021758_c1d021b87c_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49309021758/"
+  class="poster" caption="[[21](#poster21)] EGU 2018" %}
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49309726162_b568fee873_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49309726162/" class="poster"
-  caption="[[10](https://www.flickr.com/photos/pyjeo/49309022258)] SGM 2015" %}
+  src="https://live.staticflickr.com/65535/49309726162_b568fee873_w.jpg"
+  href="https://live.staticflickr.com/65535/49309726162_b568fee873_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49309726162/"
+  class="poster" caption="[[13](#poster13)] SGM 2015" %}
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49309022258/" class="poster"
-  caption="[[10](https://www.flickr.com/photos/pyjeo/49309022258)] EGU 2014" %}
+  src="https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_w.jpg"
+  href="https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49309022258/"
+  class="poster" caption="[[10](#poster10)] EGU 2014" %}
 
 
 Conference talks
@@ -323,6 +326,7 @@ Conference posters
 
 ### 2018
 
+<a name="poster21"></a>
 [[21](https://www.flickr.com/photos/pyjeo/49309021758/)]
 : **J. Seguinot**, S. Ivy-Ochs, and M. Imhof.
   A database of Last Glacial Maximum transfluences and crosswise divides
@@ -389,6 +393,7 @@ Conference posters
 
 ### 2015
 
+<a name="poster13"></a>
 [[13](https://www.flickr.com/photos/pyjeo/49309726162)]
 : **J. Seguinot**, A. Bauder, M. Funk, G. Jouvet, P. Limpach, F. Neyer,
   C. Ryser, S. Sugiyama and Y. Weidmann.
@@ -411,6 +416,7 @@ Conference posters
   climate forcing).
   [EGU 2014][EGU 2014], 27 Apr. -- 02 May 2014, Vienna, Austria.
 
+<a name="poster10"></a>
 [[10](https://www.flickr.com/photos/pyjeo/49309022258)]
 : **J. Seguinot**, I. Rogozhina, A. P. Stroeven, M. Margold, J. Kleman,
   C. Khroulev, and Q. Zhang.

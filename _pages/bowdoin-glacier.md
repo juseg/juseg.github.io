@@ -27,18 +27,21 @@ in the late-nineteenth century and described in the following terms:
 > *Northward over the Great Ice*, 1898, p. 393--394).
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49298828541_bac0c76a05_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49298829236/"
+  src="https://live.staticflickr.com/65535/49298829236_d1e9b71afa_w.jpg"
+  href="https://live.staticflickr.com/65535/49298829236_d1e9b71afa_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49298829236/"
   class="thumbnail" caption="Before calving" %}
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49298343083_b4fc95b8a9_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49298829236/"
+  src="https://live.staticflickr.com/65535/49298343083_b4fc95b8a9_w.jpg"
+  href="https://live.staticflickr.com/65535/49298343083_b4fc95b8a9_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49298343083/"
   class="thumbnail" caption="Longitudinal strain" %}
 
 {% include figure.html
-  src="https://live.staticflickr.com/65535/49298829236_d1e9b71afa_w_d.jpg"
-  href="https://www.flickr.com/photos/pyjeo/49298829236/"
+  src="https://live.staticflickr.com/65535/49298828541_bac0c76a05_w.jpg"
+  href="https://live.staticflickr.com/65535/49298828541_bac0c76a05_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49298828541/"
   class="thumbnail" caption="Meltwater creek" %}
 
 
