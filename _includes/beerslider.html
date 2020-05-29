@@ -5,8 +5,11 @@
       <img src="{{ include.image1 }}" alt="">
     </div>
   </div>
-  <figcaption>{{ include.caption }} Contains modified
+  <figcaption>
+    {{ include.caption | markdownify | remove: "<p>" | remove: "</p>"  }}
+    {% if include.flickr %}(<a href="{{ include.flickr }}">flickr</a>){% endif %}.
+    Contains modified
     <a href="http://www.copernicus.eu">Copernicus</a> Sentinel data. Processed with
-    <a href="https://github.com/juseg/sentinelflow">Sentinelflow</a>
+    <a href="https://github.com/juseg/sentinelflow">Sentinelflow.</a>
   </figcaption>
 </figure>

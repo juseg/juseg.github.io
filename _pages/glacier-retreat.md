@@ -4,12 +4,9 @@ permalink: /glacier-retreat/
 beerslider: true
 ---
 
-<!-- FIXME add links to pictures on Flickr? -->
-
 Throughout the Alps glaciers currently experience rapid retreat. Even over a
 short time interval of four years, this retreat and the thinning of glaciers is
-well visible from satellite images. Use the browser's zoom for full resolution.
-The images speak for themselves.
+well visible from satellite images. The images speak for themselves.
 
 
 French Alps
@@ -18,11 +15,12 @@ French Alps
 ### Glacier Blanc
 
 {% include beerslider.html
-  image1="https://live.staticflickr.com/65535/49944421172_fac729144a_b_d.jpg"
-  image2="https://live.staticflickr.com/65535/49944127291_49b57ccd74_b_d.jpg"
+  image1="https://live.staticflickr.com/65535/49944421172_fac729144a_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944127291_49b57ccd74_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944421172/"
   label1="Aug. 29, 2015"
   label2="Aug. 18, 2019"
-  caption="Glacier Blanc in 2015 and 2019." %}
+  caption="Glacier Blanc in 2015 and 2019" %}
 
 Glacier Blanc is one of the southernmost glaciers in the Alps. Between 2015
 and 2019 the thin terminal tongue retreated quickly making it more and more
@@ -39,11 +37,12 @@ mountain is uninhibited in winter.
 ### Glaciers de la Vanoise
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944420972_e0f8aaa7b6_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49944420947_c9cff7af0c_b_d.jpg"
-   label1="Aug. 29, 2015"
-   label2="Aug. 18, 2019"
-   caption="Glaciers de la Vanoise in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944420972_e0f8aaa7b6_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944420947_c9cff7af0c_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944420947/"
+  label1="Aug. 29, 2015"
+  label2="Aug. 18, 2019"
+  caption="Glaciers de la Vanoise in 2015 and 2019" %}
 
 The Glaciers de la Vanoise are a group of glaciers that (still) connect to form
 a relatively broad continuous ice field in the French Alps of Vanoise. In
@@ -58,11 +57,12 @@ the image.
 ### Mer de Glace
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944421107_bdd6a97242_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49943619708_847ef5537a_b_d.jpg"
-   label1="Aug. 29, 2015"
-   label2="Aug. 23, 2019"
-   caption="Mer de Glace in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944421107_bdd6a97242_b.jpg"
+  image2="https://live.staticflickr.com/65535/49943619708_847ef5537a_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944421107/"
+  label1="Aug. 29, 2015"
+  label2="Aug. 23, 2019"
+  caption="Mer de Glace in 2015 and 2019" %}
 
 The Mer de Glace is one of the first places where systematic glacier studies
 were conducted, at a time when it extended down to the valley of Chamonix. The
@@ -81,11 +81,13 @@ Swiss Alps
 ### Gorner Glacier
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944127281_6e9e1208f1_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49944127266_c7665976fe_b_d.jpg"
-   label1="Aug. 29, 2015"
-   label2="Sep.  4, 2019"
-   caption="Gorner Glacier in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944127281_6e9e1208f1_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944127266_c7665976fe_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944127281/"
+  label1="Aug. 29, 2015"
+  label1="Aug. 29, 2015"
+  label2="Sep.  4, 2019"
+  caption="Gorner Glacier in 2015 and 2019" %}
 
 The junction between the upper and lower parts of Gorner Glacier has finally
 vanished. The terminal tongue tongue of the Gorner Glacier (upper left) is
@@ -103,11 +105,12 @@ frontal retreat of the terminal tongue.
 ### Aletsch Glacier
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944421187_d8395a6ddf_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49944127331_7c1b3a9c67_b_d.jpg"
-   label1="Aug. 29, 2015"
-   label2="Sep.  4, 2019"
-   caption="Aletsch Glacier in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944421187_d8395a6ddf_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944127331_7c1b3a9c67_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944421187/"
+  label1="Aug. 29, 2015"
+  label2="Sep.  4, 2019"
+  caption="Aletsch Glacier in 2015 and 2019" %}
 
 The Aletsch Glacier, the largest in the Alps, retreated 300 metres in only
 four years. The images also show that the glacier thinned significantly
@@ -123,11 +126,12 @@ the higher mountains is also diminishing.
 ### Unteraar Glacier
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944421012_d95df322bd_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49944420982_db9dcbf0bc_b_d.jpg"
-   label1="Aug. 29, 2015"
-   label2="Sep.  4, 2019"
-   caption="Unteraar Glacier in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944421012_d95df322bd_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944420982_db9dcbf0bc_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944421012/"
+  label1="Aug. 29, 2015"
+  label2="Sep.  4, 2019"
+  caption="Unteraar Glacier in 2015 and 2019" %}
 
 Thanks to the many rock debris covering the surface of the Unteraar Glacier,
 the eastward motion of the glacier between the two images is well visible. A
@@ -143,11 +147,12 @@ of smaller glaciers at high elevations.
 ### Rhone Glacier
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944421047_94be5e12d2_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49944421032_55fe087b55_b_d.jpg"
-   label1="Aug. 29, 2015"
-   label2="Sep.  4, 2019"
-   caption="Rhone Glacier in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944421047_94be5e12d2_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944421032_55fe087b55_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944421047/"
+  label1="Aug. 29, 2015"
+  label2="Sep.  4, 2019"
+  caption="Rhone Glacier in 2015 and 2019" %}
 
 Between 2015 and 2019, the Rhone Glacier became thinner and the glacial lake
 at the front grew a bit larger. The white patch at the southern tip of the
@@ -162,11 +167,12 @@ ice below to melt slower than its surroundings.
 ### Morteratsch Glacier
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49944127216_8b15caf09b_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49944127206_ec8938fa0e_b_d.jpg"
-   label1="Aug. 26, 2015"
-   label2="Sep.  4, 2019"
-   caption="Morteratsch Glacier in 2015 and 2019." %}
+  image1="https://live.staticflickr.com/65535/49944127216_8b15caf09b_b.jpg"
+  image2="https://live.staticflickr.com/65535/49944127206_ec8938fa0e_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49944127216/"
+  label1="Aug. 26, 2015"
+  label2="Sep.  4, 2019"
+  caption="Morteratsch Glacier in 2015 and 2019" %}
 
 While the terminal tongue of Morteratsch Glacier is slowly melting under a
 thick layer of rock debris, the area of clean ice clearly diminished between
@@ -183,11 +189,12 @@ Italian Alps
 ### Adamello Glacier
 
 {% include beerslider.html
-   image1="https://live.staticflickr.com/65535/49943619893_b84be22897_b_d.jpg"
-   image2="https://live.staticflickr.com/65535/49943619863_1dec4af9d9_b_d.jpg"
-   label1="Aug. 26, 2015"
-   label2="Sep.  4, 2019"
-   caption="Adamello Glacier in 2015 and 2019" %}
+  image1="https://live.staticflickr.com/65535/49943619893_b84be22897_b.jpg"
+  image2="https://live.staticflickr.com/65535/49943619863_1dec4af9d9_b.jpg"
+  flickr="https://www.flickr.com/photos/pyjeo/49943619893/"
+  label1="Aug. 26, 2015"
+  label2="Sep.  4, 2019"
+  caption="Adamello Glacier in 2015 and 2019" %}
 
 The Adamello glacier, a large ice plateau in the eastern Italian Alps, has
 nearly completely lost its accumulation area. Between 2015 and 2019, the
