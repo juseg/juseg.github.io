@@ -1,28 +1,26 @@
 ---
 title: Talks and posters
 permalink: /talks-posters/
+
+gallery:
+  - url: "https://live.staticflickr.com/65535/49309021758_c1d021b87c_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/49309021758_c1d021b87c_c.jpg"
+    title: "[21] EGU 2018"
+  - url: "https://live.staticflickr.com/65535/49309726162_b568fee873_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/49309726162_b568fee873.jpg"
+    title: "[13] SGM 2015"
+  - url: "https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_c.jpg"
+    title: "[10] EGU 2014"
+
 ---
 
 Selected previews
 -----------------
 
-{% include figure.html
-  src="https://live.staticflickr.com/65535/49309021758_c1d021b87c_w.jpg"
-  href="https://live.staticflickr.com/65535/49309021758_c1d021b87c_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/49309021758/"
-  class="poster" caption="[[21](#poster21)] EGU 2018" %}
-
-{% include figure.html
-  src="https://live.staticflickr.com/65535/49309726162_b568fee873_w.jpg"
-  href="https://live.staticflickr.com/65535/49309726162_b568fee873_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/49309726162/"
-  class="poster" caption="[[13](#poster13)] SGM 2015" %}
-
-{% include figure.html
-  src="https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_w.jpg"
-  href="https://live.staticflickr.com/65535/49309022258_ba00fd5d7d_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/49309022258/"
-  class="poster" caption="[[10](#poster10)] EGU 2014" %}
+{% include gallery class="posters"
+  caption="Selected posters ([[21](#poster21)] EGU 2018,
+    [[13](#poster13)] SGM 2015, [[10](#poster10)] EGU 2014)." %}
 
 
 Conference talks

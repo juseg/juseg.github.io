@@ -4,10 +4,9 @@
 
 @charset "utf-8";
 
-// Custom style (margin 0 1% looks better on wide layouts)
-.poster, .thumbnail {display: inline-block; margin: 0; min-width: 200px; width: 30%; vertical-align: top}
-.poster > a {height: 200px; overflow: hidden}
-.poster > a > img {max-width: none; width: auto}
+// Poster galleries
+.posters > a {height: 200px; overflow: hidden}
+.posters > a > img {max-width: none; width: auto}
 
 // Prevent word wrapping on slider labels
 .beer-reveal[data-beer-label]::after {white-space: nowrap}

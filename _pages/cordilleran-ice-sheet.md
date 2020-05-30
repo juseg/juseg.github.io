@@ -1,6 +1,18 @@
 ---
 title: Cordilleran ice sheet
 permalink: /cordilleran-ice-sheet/
+
+gallery:
+  - url: "https://live.staticflickr.com/65535/49298982311_4c16206d04_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/49298982311_4c16206d04_w.jpg"
+    title: "Tuya Lake moraines"
+  - url: "https://live.staticflickr.com/65535/49298342548_9683726e9d_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/49298342548_9683726e9d_w.jpg"
+    title: "Floatplane"
+  - url: "https://live.staticflickr.com/65535/49299033172_02356fc2a8_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/49299033172_02356fc2a8_w.jpg"
+    title: "Meltwater channels"
+
 ---
 
 Context
@@ -17,24 +29,9 @@ ice sheet, much smaller, covered the northernmost Canadian archipelago.
 Finally, the Cordilleran ice sheet, intermediate in size, capped the mountain
 ranges of the Western Cordillera.
 
-{% include figure.html
-  src="https://live.staticflickr.com/65535/49298982311_4c16206d04_w.jpg"
-  href="https://live.staticflickr.com/65535/49298982311_4c16206d04_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/49298342428/"
-  class="thumbnail" caption="Tuya Lake moraines" %}
-
-{% include figure.html
-  src="https://live.staticflickr.com/65535/49298342548_9683726e9d_w.jpg"
-  href="https://live.staticflickr.com/65535/49298342548_9683726e9d_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/49298342548/"
-  class="thumbnail" caption="Floatplane" %}
-
-{% include figure.html
-  src="https://live.staticflickr.com/65535/49299033172_02356fc2a8_w.jpg"
-  href="https://live.staticflickr.com/65535/49299033172_02356fc2a8_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/49299033172/"
-  class="thumbnail" caption="Meltwater channels" %}
-
+{% include gallery
+  caption="Fieldwork in the Cordillera (see my [flickr album](
+    https://www.flickr.com/photos/pyjeo/albums/72157714500761251) for more)." %}
 
 Glacier modelling
 -----------------

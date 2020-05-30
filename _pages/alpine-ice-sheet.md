@@ -1,6 +1,18 @@
 ---
 title: Alpine ice sheet
 permalink: /alpine-ice-sheet/
+
+gallery:
+  - url: "https://live.staticflickr.com/65535/48920309508_3e3d6528a5_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/48920309508_3e3d6528a5_w.jpg"
+    title: "Roche moutonnée"
+  - url: "https://live.staticflickr.com/65535/48838720096_63c8bbc63a_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/48838720096_63c8bbc63a_w.jpg"
+    title: "Little Ice Age"
+  - url: "https://live.staticflickr.com/65535/48844296952_bf69355fdb_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/48844296952_bf69355fdb_w.jpg"
+    title: "Glacial valley"
+
 ---
 
 Context
@@ -15,23 +27,10 @@ glaciation are most abundant and well-studied. About 25 000 years ago, glacier
 filled most valleys in the Alps, and even extended onto the plains that are now
 parts of France, Switzerland, Italy, Austria and Slovenia.
 
-{% include figure.html
-  src="https://live.staticflickr.com/65535/48920309508_3e3d6528a5_w.jpg"
-  href="https://live.staticflickr.com/65535/48920309508_3e3d6528a5_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/48920309508/"
-  class="thumbnail" caption="Roche moutonnée" %}
-
-{% include figure.html
-  src="https://live.staticflickr.com/65535/48838720096_63c8bbc63a_w.jpg"
-  href="https://live.staticflickr.com/65535/48838720096_63c8bbc63a_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/48838720096/"
-  class="thumbnail" caption="Little Ice Age" %}
-
-{% include figure.html
-  src="https://live.staticflickr.com/65535/48844296952_bf69355fdb_w.jpg"
-  href="https://live.staticflickr.com/65535/48844296952_bf69355fdb_b.jpg"
-  flickr="https://www.flickr.com/photos/pyjeo/48844296952/"
-  class="thumbnail" caption="Glacial valley" %}
+<!-- FIXME add flickr photo album on Alpine geomorphology. -->
+{% include gallery
+  caption="Photos of Alpine geomorphology (see my [flickr album](
+    https://www.flickr.com/photos/pyjeo/albums/72157711308107582) for more)." %}
 
 
 Glacier modelling
