@@ -21,3 +21,5 @@ menu:
     children:
       - title: "Glacier retreat"
         url: /glacier-retreat/
+      - title: "Confinés au Groenland"
+        url: /confines-au-groenland/
