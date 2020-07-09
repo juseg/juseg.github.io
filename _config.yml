@@ -50,6 +50,9 @@ footer:
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
       url: "https://flickr.com/pyjeo"
+    - label: "Vimeo"
+      icon: "fab fa-fw fa-vimeo-square"
+      url: "https://vimeo.com/pyjeo"
 
 # Defaults
 defaults:
