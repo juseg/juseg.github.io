@@ -5,7 +5,7 @@ layout: single
 
 Welcome to my personal homepage! For ten years I have worked as a
 glaciologist, researching the dynamics of modern and ancient glaciers. During
-my short career I had the luck to meet very inspiring mentors and be part of
+my academic career I had the luck to meet very inspiring mentors and be part of
 exciting research groups, particularly at [Stockholm University][SU], [ETH
 Zürich][ETHZ] and [Hokkaido University][HU]. I have worked on measurements from
 Greenland ([Bowdoin Glacier](/bowdoin-glacier/)) and numerical modelling of
@@ -27,11 +27,9 @@ privilege to participate in fieldwork in remote cold corners of the Earth, such
 as the Canadian [Cordillera](/cordilleran-ice-sheet/) and northwestern
 [Greenland](/bowdoin-glacier/#fieldwork).
 
-**COVID-19 update:**
-Following the coronavirus pandemic, I am currently stranded and without a job
-in my hometown Lille in northern France where I take the time for things I have
-left aside in years and nourish the secret hope to perhaps one day receive a
-salary again.
+**Contact:**
+*first name two first letters* + *last name three first letters* + at +
+*posteo* and then dot + *eu*.
 {: .notice--info}
 
 [SU]: https://www.natgeo.su.se/english/
