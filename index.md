@@ -27,9 +27,15 @@ privilege to participate in fieldwork in remote cold corners of the Earth, such
 as the Canadian [Cordillera](/cordilleran-ice-sheet/) and northwestern
 [Greenland](/bowdoin-glacier/#fieldwork).
 
+**New:** see my animations about Alpine glacial cycle
+   [bedrock uplift](https://vimeo/375719360) and
+   [glacier erosion](https://vimeo/375702518).
+{: .notice--success}
+
 **Contact:**
-*first name two first letters* + *last name three first letters* + at +
-*posteo* and then dot + *eu*.
+   *first name two first letters* +
+   *last name three first letters* + at +
+   *posteo* and then dot + *eu*.
 {: .notice--info}
 
 [SU]: https://www.natgeo.su.se/english/
