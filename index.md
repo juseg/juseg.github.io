@@ -3,6 +3,11 @@ title: About
 layout: single
 ---
 
+**New:** animations for bedrock uplift and glacier erosion in
+   [Alpine ice sheet](/alpine-ice-sheet/#glacier-modelling)
+   (also on [vimeo](https://vimeo.com/showcase/5585611)).
+{: .notice--success}
+
 Welcome to my personal homepage! For ten years I have worked as a
 glaciologist, researching the dynamics of modern and ancient glaciers. During
 my academic career I had the luck to meet very inspiring mentors and be part of
@@ -26,11 +31,6 @@ animations for [museums](/outreach/). A few times, I also had the incredible
 privilege to participate in fieldwork in remote cold corners of the Earth, such
 as the Canadian [Cordillera](/cordilleran-ice-sheet/) and northwestern
 [Greenland](/bowdoin-glacier/#fieldwork).
-
-**New:** see my animations about Alpine glacial cycle
-   [bedrock uplift](https://vimeo/375719360) and
-   [glacier erosion](https://vimeo/375702518).
-{: .notice--success}
 
 **Contact:**
    *first name two first letters* +

@@ -52,9 +52,12 @@ and decay from 120000 years ago to today, a period that spans the last glacial
 cycle (see [ETH News][ETH News], [NZZ][NZZ]).
 
 {% include vimeo.html
-  id="294517816"
-  caption="Modelled last glacial cycle ice dynamics in the Alps
-           ([more videos](https://vimeo.com/showcase/5585611>))" %}
+  showcase="5585611"
+  caption="Modelled last glacial cycle ice dynamics in the Alps (also in
+           [de](https://vimeo.com/showcase/7913179),
+           [fr](https://vimeo.com/showcase/7913168),
+           [it, jp, nl](https://vimeo.com/showcase/79131689),
+           more languages or styles on demand)." %}
 
 [CSCS]: https://www.cscs.ch
 [PISM]: https://pism-docs.org
