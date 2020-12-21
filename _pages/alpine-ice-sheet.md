@@ -27,10 +27,9 @@ glaciation are most abundant and well-studied. About 25 000 years ago, glacier
 filled most valleys in the Alps, and even extended onto the plains that are now
 parts of France, Switzerland, Italy, Austria and Slovenia.
 
-<!-- FIXME add flickr photo album on Alpine geomorphology. -->
 {% include gallery
   caption="Photos of Alpine geomorphology (see my [flickr album](
-    https://www.flickr.com/photos/pyjeo/albums/72157711308107582) for more)." %}
+    https://www.flickr.com/photos/pyjeo/albums/72157717447116026) for more)." %}
 
 
 Glacier modelling
