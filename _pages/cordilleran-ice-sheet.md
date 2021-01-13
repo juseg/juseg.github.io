@@ -55,10 +55,10 @@ been lacking, so that we relied on geological studies of local or regional
 relevance to validate our simulations
 (<https://doi.org/10.5194/tc-10-639-2016>).
 
-<!-- FIXME improve video and upload to vimeo -->
-{% include video.html
-  src="https://polybox.ethz.ch/index.php/s/4prO6tvF3nh3G1W/download"
-  caption="Simulations of the Cordilleran ice sheet." %}
+{% include vimeo.html
+  showcase="8003284"
+  caption="Modelled last glacial cycle ice dynamics in the Cordillera
+           (different style or language on demand)." %}
 
 The Cordilleran ice sheet rested directly on a complex patchwork of crustal
 blocks progressively accreted by geologically old yet still active subduction

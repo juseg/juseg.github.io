@@ -13,8 +13,8 @@ title: Julien Seguinot
 email:
 description: >-  # ignore newlines
   Ice, code and images.
-twitter_username: Julien_Seguinot
-github_username:  juseg
+twitter_username: pyjeo
+github_username: juseg
 minimal_mistakes_skin: dirt
 locale: en
 search: true
@@ -43,7 +43,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cyclinghome"
+      url: "https://twitter.com/pyjeo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/juseg"
