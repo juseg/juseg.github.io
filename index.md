@@ -3,8 +3,10 @@ title: About
 layout: single
 ---
 
-**New:** animations for bedrock uplift and glacier erosion in
-   [Alpine ice sheet](/alpine-ice-sheet/#glacier-modelling)
+**New:** animations for
+   [Cordilleran ice sheet](/cordilleran-ice-sheet/#glacier-modelling)
+   (also on [vimeo](https://vimeo.com/showcase/8003284)) and
+   glacier erosion in the [Alps](/alpine-ice-sheet/#glacier-modelling)
    (also on [vimeo](https://vimeo.com/showcase/5585611)).
 {: .notice--success}
 
