@@ -61,9 +61,8 @@ refreezes in winter, warming up the surrounding ice and thus making it softer.
 These results shed light on a new mechanism contributing to the observed
 acceleration of ocean-terminating glaciers in Greenland.
 
-<!-- FIXME improve video and upload to vimeo -->
-{% include video.html
-  src="https://polybox.ethz.ch/index.php/s/U7Cbgs016TkndzX/download"
+{% include vimeo.html
+  id="501487603"
   caption="Summer snow melt, iceberg calving and sea ice breakoff in Bowdoin
            Fjord. Contains modified [Copernicus](http://www.copernicus.eu)
            Sentinel data (2016). Processed with
