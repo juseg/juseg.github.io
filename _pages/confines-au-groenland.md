@@ -3,13 +3,13 @@ title: Confinés au Groenland
 permalink: /confines-au-groenland/
 
 gallery:
-  - url: "http://cyclingho.me/wp-content/uploads/2020/05/julien-xt1-160701-220000-dev.jpg"
+  - url: "https://cyclingho.me/wp-content/uploads/2020/05/julien-xt1-160701-220000-dev.jpg"
     image_path: "http://cyclingho.me/wp-content/uploads/2020/05/julien-xt1-160701-220000-dev-300x200.jpg"
     title: "View from Qaanaaq"
-  - url: "http://cyclingho.me/wp-content/uploads/2020/04/julien-xt1-160714-104855-dev.jpg"
+  - url: "https://cyclingho.me/wp-content/uploads/2020/04/julien-xt1-160714-104855-dev.jpg"
     image_path: "http://cyclingho.me/wp-content/uploads/2020/04/julien-xt1-160714-104855-dev-300x200.jpg"
     title: "Bowdoin Glacier"
-  - url: "http://cyclingho.me/wp-content/uploads/2020/04/julien-xt1-160727-235158-dev.jpg"
+  - url: "https://cyclingho.me/wp-content/uploads/2020/04/julien-xt1-160727-235158-dev.jpg"
     image_path: "http://cyclingho.me/wp-content/uploads/2020/04/julien-xt1-160727-235158-dev-300x200.jpg"
     title: "Ilulissat Icefjord"
 
@@ -25,8 +25,8 @@ gallery:
 > pregnant nurse and others. It was their first time in the Arctic.
 
 {% include figure.html class="align-right"
-  src="http://cyclingho.me/wp-content/uploads/2020/05/julien-d3200-150713-132736-132839-ste-logo-300x300.jpg"
-  href="http://cyclingho.me/confines-au-groenland"%}
+  src="https://cyclingho.me/wp-content/uploads/2020/05/julien-d3200-150713-132736-132839-ste-logo-300x300.jpg"
+  href="https://cyclingho.me/confines-au-groenland"%}
 
 *[Confinés au Groenland][CAG]* is a series I wrote in April 2020 when the
 coronavirus pandemic hit Europe. The stories are based on experiences lived
