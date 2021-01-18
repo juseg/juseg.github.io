@@ -1,6 +1,6 @@
 ---
-title: Confinés au Groenland
-permalink: /confines-au-groenland/
+title: A month in Greenland
+permalink: /month-in-greenland/
 
 gallery:
   - url: "https://cyclingho.me/wp-content/uploads/2020/05/julien-xt1-160701-220000-dev.jpg"
