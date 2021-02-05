@@ -6,6 +6,19 @@ permalink: /research-papers/
 Reviewed articles
 -----------------
 
+[15]
+: E. C. H. van Dongen, G. Jouvet, S. Sugiyama, E. A .Podolskiy, M. Funk,
+  D. I. Benn, F. Lindner, A. Bauder, **J. Seguinot**, S. Leinss, and F. Walter.
+  Thinning leads to calving-style changes at Bowdoin Glacier, Greenland.
+  *The Cryosphere*, 15, 485–500,
+  <https://doi.org/10.5194/tc-15-485-2021>, 2021.
+
+[14]
+: **J. Seguinot**, M. Funk, A. Bauder, T. Wyder, C. Senn, and S. Sugiyama.
+  Englacial warming indicates deep crevassing in Bowdoin Glacier, Greenland.
+  *Front. Earth Sci.*, 8, 2020.
+  <https://doi.org/10.3389/feart.2020.00065>, 2020.
+
 [13]
 : M. A. Imhof, D. Cohen, **J. Seguinot**, A. Aschwanden, M. Funk and G. Jouvet.
   Modelling a paleo valley glacier network using a hybrid model: an assessment

@@ -76,6 +76,12 @@ Other software
 Archived data
 -------------
 
+[6]
+: **J. Seguinot**.
+  Alpine ice sheet erosion potential aggregated variables.
+  *Zenodo*. <http://doi.org/10.5281/zenodo.4495419>, 2021.
+
+
 [5]
 : **J. Seguinot**.
   Cordilleran ice sheet glacial cycle simulations continuous variables.
