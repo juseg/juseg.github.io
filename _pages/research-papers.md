@@ -3,6 +3,16 @@ title: Research papers
 permalink: /research-papers/
 ---
 
+
+In preparation
+--------------
+
+[16]
+: **J. Seguinot** and I. Delaney.
+  Last glacial cycle glacier erosion potential in the Alps.
+  *Submitted to Earth Surface Dynamics Discussions*, 2021.
+
+
 Reviewed articles
 -----------------
 
@@ -16,7 +26,7 @@ Reviewed articles
 [14]
 : **J. Seguinot**, M. Funk, A. Bauder, T. Wyder, C. Senn, and S. Sugiyama.
   Englacial warming indicates deep crevassing in Bowdoin Glacier, Greenland.
-  *Front. Earth Sci.*, 8, 2020.
+  *Front. Earth Sci.*, 8,
   <https://doi.org/10.3389/feart.2020.00065>, 2020.
 
 [13]
