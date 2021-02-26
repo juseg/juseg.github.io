@@ -11,8 +11,18 @@ gallery:
     title: "Little Ice Age"
   - url: "https://live.staticflickr.com/65535/48844296952_bf69355fdb_b.jpg"
     image_path: "https://live.staticflickr.com/65535/48844296952_bf69355fdb_w.jpg"
-    title: "Glacial valley"
+    title: "U-shaped valley"
 
+erosion:
+  - url: "https://live.staticflickr.com/65535/50743485202_405601c2d8_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/50743485202_405601c2d8_w.jpg"
+    title: "Piedmont lake"
+  - url: "https://live.staticflickr.com/65535/50950153856_255009394c_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/50950153856_255009394c_w.jpg"
+    title: "Glacial valley"
+  - url: "https://live.staticflickr.com/65535/50742646803_2bd4961b6a_b.jpg"
+    image_path: "https://live.staticflickr.com/65535/50742646803_2bd4961b6a_w.jpg"
+    title: "Mountain cirque"
 ---
 
 Context
@@ -42,7 +52,7 @@ experiments on ice. With help from the traces left by glaciers on the
 landscape, my colleagues and I attempt to model the evolution of former Alpine
 glaciers in time.
 
-The simulations run on the Swiss National Supercomputing Centre ([CSCS][CSCS])
+The simulations ran on the Swiss National Supercomputing Centre ([CSCS][CSCS])
 Piz Daint, the fastest supercomputer in Europe and among the fastest in the
 World (see [TOP500][TOP500]). In a study recently published in the open-access
 journal The Cryosphere (<https://doi.org/10.5194/tc-12-3265-2018>), we
@@ -64,10 +74,6 @@ cycle (see [ETH News][ETH News], [NZZ][NZZ]).
 [ETH News]: https://www.ethz.ch/en/news-and-events/eth-news/news/2018/11/an-ice-age-lasting-115000-years-in-two-minutes.html
 [NZZ]: https://www.nzz.ch/wissenschaft/als-bern-und-zuerich-noch-von-eis-bedeckt-waren-ld.1434273
 
-
-Outreach
---------
-
 Visualizations of the results were temporarily displayed at the [History museum
 of Wallis][Wallis] in Sion, during the 5th night of images in
 [Collombey][Collombey] and [Naters][Naters], and are permanently exposed at the
@@ -86,3 +92,17 @@ to validate the accuracy of the results.
 [Naters]: https://agenda.culturevalais.ch/fr/event/show/14762
 [Wallis]: https://www.musees-valais.ch/musee-histoire/expositions/archives/item/1229-memoire-de-glace-vestiges-en-peril.html
 [Solothurn]: https://hausdermuseen.ch/archaeologisches-museum
+
+Glacier erosion
+---------------
+
+{% include gallery id="erosion"
+   caption="Alpine glacier erosion landscapes (see my [flickr album](
+   https://www.flickr.com/photos/pyjeo/albums/72157717447116026) for more)." %}
+
+Ancient Alpine glaciers have carved a fascinating landscape of piedmont lakes,
+glacial valleys and mountain cirques. Interestingly, our new results on glacier
+erosion (currently undergoing review, <https://doi.org/10.5194/tc-12-3265-2018>)
+show that glaciers do not always cause more rapid erosion. Instead, glacier
+erosion is modelled to slow down during glacier advance and to peak during
+phases of retreat, such as the one we currently experience.
