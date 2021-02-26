@@ -18,6 +18,7 @@ github_username: juseg
 minimal_mistakes_skin: dirt
 locale: en
 search: true
+logo: favicon-192x192.png
 
 # Build settings
 markdown: kramdown
