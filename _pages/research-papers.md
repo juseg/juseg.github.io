@@ -4,13 +4,14 @@ permalink: /research-papers/
 ---
 
 
-In preparation
---------------
+Preprint
+--------
 
 [16]
 : **J. Seguinot** and I. Delaney.
   Last glacial cycle glacier erosion potential in the Alps.
-  *Submitted to Earth Surface Dynamics Discussions*, 2021.
+  *Earth Surf. Dynam. Discuss.*,
+  <https://doi.org/10.5194/esurf-2021-12>, in review, 2021.
 
 
 Reviewed articles
