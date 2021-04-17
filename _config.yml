@@ -55,13 +55,21 @@ footer:
       icon: "fab fa-fw fa-vimeo-square"
       url: "https://vimeo.com/pyjeo"
 
-# Defaults
+# Front matter defaults
 defaults:
-  # sidebar menu on all pages
+
+  # _research
   - scope:
       path: ""
+      type: research
     values:
       layout: single
       classes: wide
       sidebar:
         nav: "menu"
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:path/
