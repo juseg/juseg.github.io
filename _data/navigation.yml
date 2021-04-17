@@ -1,3 +1,14 @@
+# Masthead navigational links
+# FIXME add research and portfolio pages
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Research"
+    url: /alpine-ice-sheet/
+  - title: "Portfolio"
+    url: /research-papers/
+
+# Sidebar navigation menu
 menu:
   - title: "Projects"
     children:
