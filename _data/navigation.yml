@@ -8,8 +8,8 @@ main:
   - title: "Portfolio"
     url: /research-papers/
 
-# Sidebar navigation menu
-menu:
+# Research sidebar navigation menu
+research:
   - title: "Projects"
     children:
       - title: "Alpine ice sheet"
@@ -18,6 +18,15 @@ menu:
         url: /bowdoin-glacier/
       - title: "Cordilleran ice sheet"
         url: /cordilleran-ice-sheet/
+  - title: "Images"
+    children:
+      - title: "Glacier retreat"
+        url: /glacier-retreat/
+      - title: "A month in Greenland"
+        url: /month-in-greenland/
+
+# Portfolio sidebar navigation menu
+portfolio:
   - title: "Releases"
     children:
       - title: "Research papers"
@@ -28,9 +37,3 @@ menu:
         url: /talks-posters/
       - title: "Outreach & press"
         url: /outreach-press/
-  - title: "Images"
-    children:
-      - title: "Glacier retreat"
-        url: /glacier-retreat/
-      - title: "A month in Greenland"
-        url: /month-in-greenland/
