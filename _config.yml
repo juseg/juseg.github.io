@@ -68,8 +68,21 @@ defaults:
       sidebar:
         nav: "menu"
 
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "menu"
+
 # Collections
 collections:
   research:
+    output: true
+    permalink: /:path/
+  portfolio:
     output: true
     permalink: /:path/
