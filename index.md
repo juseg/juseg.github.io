@@ -1,13 +1,20 @@
 ---
-title: About
-layout: single
----
+title: Home
+layout: splash
+classes: landing
 
-{% include figure.html
-   src="https://live.staticflickr.com/65535/49299032507_0a1c639f5c_b.jpg"
-   href="https://live.staticflickr.com/65535/49299032507_0a1c639f5c_b.jpg"
-   flickr="https://www.flickr.com/photos/pyjeo/49299032507/"
-   caption="Glacier Blanc, French Alps" %}
+header:
+  image: https://live.staticflickr.com/65535/49299032507_979eaa4ea9_h.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption:
+    "Glacier Blanc, Dauphiné Alps
+    ([**flickr**](https://www.flickr.com/photos/pyjeo/49299032507/))"
+  excerpt: "Personal webpage."
+
+
+---
 
 **New:** [Publications](/research-papers/) by Eef van Dongen et al. on
    [glacier calving](https://doi.org/10.5194/tc-15-485-2021) and by Ian Delaney
@@ -18,6 +25,12 @@ layout: single
    glacier erosion in the [Alps](/alpine-ice-sheet/#glacier-modelling)
    (also on [vimeo](https://vimeo.com/showcase/5585611)).
 {: .notice--success}
+
+![profile](https://live.staticflickr.com/65535/48936931001_6701ea0f7d_w.jpg){:
+    .align-left style="max-width: 220px"}
+{: .author__avatar}
+
+# About
 
 Welcome to my personal homepage! For ten years I have worked as a
 glaciologist, researching the dynamics of modern and ancient glaciers. During
@@ -37,10 +50,24 @@ privilege to participate in fieldwork in remote cold corners of the Earth, such
 as the Canadian [Cordillera](/cordilleran-ice-sheet/) and northwestern
 [Greenland](/bowdoin-glacier/#fieldwork).
 
-{% include vimeo.html
-   id="514615725"
-   caption="3D animation of [Alpine glaciers](/alpine-ice-sheet/)
-            during the last glacial cycle (starting in the upper Inn)." %}
+---
+
+{: .align-left style="width: 600px; max-width: 100%; margin-top: 0"}
+{% include vimeo.html id="514615725" %}
+
+# New 3D animation
+
+Three-dimensional animation of the [Alpine glaciers](/alpine-ice-sheet/) during
+the last glacial cycle. The animation begins in the upper Inn Valley before the
+camera pans out over the northern Alpine foreland. Enable fullscreen to make
+out the ice-sheet model grid cells, each one kilometre in width. Alternative
+versions upon request.
+
+[Watch on Vimeo](https://vimeo.com/514615725){: .btn .btn--primary}
+
+{: style="clear: both"}
+
+<!-- FIXME add contact page and FAQ -->
 
 **Contact:**
    *first name two first letters* +
