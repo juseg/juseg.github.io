@@ -13,6 +13,31 @@ header:
     ([**flickr**](https://www.flickr.com/photos/pyjeo/49299032507/))"
   excerpt: "Personal webpage."
 
+feature_row:
+  - image_path: https://i.vimeocdn.com/video/764738148_640x425.jpg
+    image_caption: Reuss and Linth glaciers (**[vimeo](https://vimeo.com/321913054)**).
+    title: Paleoglacier animations
+    excerpt: My glacier animations have been reused in
+             [museums and exhibitions](/outreach-press/).
+    btn_class: btn--primary
+    btn_label: More on Vimeo
+    url: https://vimeo.com/pyjeo
+  - image_path: https://live.staticflickr.com/65535/50209002431_df6b3ecd7f_z.jpg
+    image_caption: My nomadic home office (**[flickr](https://www.flickr.com/photos/pyjeo/50209002431)**).
+    title: Geoscientific software
+    excerpt: I am an active Python developer in several
+             [open-source projects](/software-data/).
+    btn_class: btn--primary
+    btn_label: More on Github
+    url: https://github.com/juseg
+  - image_path: https://live.staticflickr.com/65535/51049997471_a79dc52c4c_c.jpg
+    image_caption: Greenland, Sentinel-2 (**[flickr](https://www.flickr.com/photos/pyjeo/51049997471)**).
+    title: Satellite images
+    excerpt: I love looking at [glaciers](/glacier-retreat)
+             and the rest of our planet from space.
+    btn_class: btn--primary
+    btn_label: More on Flickr
+    url: https://www.flickr.com/photos/pyjeo/albums/72157712998133397
 
 ---
 
@@ -66,6 +91,15 @@ versions upon request.
 [Watch on Vimeo](https://vimeo.com/514615725){: .btn .btn--primary}
 
 {: style="clear: both"}
+
+---
+
+<!-- FIXME: add museums and exhibitions page, link -->
+<!-- FIXME: add hyoga, software pages, link -->
+<!-- FIXME: add sentinel images page, link -->
+<!-- FIXME: maybe use hyoga logo when available -->
+
+{% include feature_row %}
 
 <!-- FIXME add contact page and FAQ -->
 
