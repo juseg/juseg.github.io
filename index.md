@@ -57,23 +57,26 @@ feature_row:
 
 # About
 
-Welcome to my personal homepage! For ten years I have worked as a
-glaciologist, researching the dynamics of modern and ancient glaciers. During
-my academic career I had the luck to meet very inspiring mentors and be part of
-exciting research groups, particularly at [Stockholm University][SU], [ETH
-Zürich][ETHZ] and [Hokkaido University][HU]. I have worked on measurements from
-Greenland ([Bowdoin Glacier](/bowdoin-glacier/)) and numerical modelling of
-past ([Alpine](/alpine-ice-sheet/) and [Cordilleran](/cordilleran-ice-sheet/))
-ice sheets.
+Thank you for passing by! I am a computational and field geoscientist with a
+passion for landscapes, particularly those formed by ancient glaciers such as
+in the [Alps](/alpine-ice-sheet/). I have experience on conducting fieldwork in
+remote environments of the North American [Cordillera](/cordilleran-ice-sheet/)
+and [Greenland](/bowdoin-glacier/). I hold a Ph.D. degree from [Stockholm
+University][SU], and worked at other influential institutions worldwide
+including [ETH Zürich][ETHZ], [GFZ Potsdam][GFZ] and [Hokkaido University][HU].
 
-On a more practical level, this implies that I have spent most of the last ten
-years writing Python [code](/software-data/) and then, through a collaborative
-process of intense [debate](/talks-posters/), mushing it up into carefully
-crafted pieces of foreign language [text](/research-papers/) and colourful
-animations for [museums](/outreach/). A few times, I also had the incredible
-privilege to participate in fieldwork in remote cold corners of the Earth, such
-as the Canadian [Cordillera](/cordilleran-ice-sheet/) and northwestern
-[Greenland](/bowdoin-glacier/#fieldwork).
+[SU]: https://www.natgeo.su.se/english/
+[ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
+[GFZ]: https://www.gfz-potsdam.de/en/section/earth-system-modelling/
+[HU]: https://www.arc.hokudai.ac.jp/en/
+
+Since the beginning of the pandemic, I am working as an independent researcher,
+primarily driven by the conviction that scientific work and in particular
+methods need to be better communicated outside universities. While much of my
+work has been self-driven and voluntary, I am always on the lookout for new
+ideas and funding (preferably remote and on a consulting basis these days).
+When I don't do science, I am [cycling the world](https://cyclingho.me). Feel
+free to get in touch!
 
 ---
 
@@ -101,14 +104,12 @@ versions upon request.
 
 {% include feature_row %}
 
+# Contact
+
 <!-- FIXME add contact page and FAQ -->
 
-**Contact:**
+**Email:**
    *first name two first letters* +
    *last name three first letters* + at +
    *posteo* and then dot + *eu*.
 {: .notice--info}
-
-[SU]: https://www.natgeo.su.se/english/
-[ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
-[HU]: https://www.arc.hokudai.ac.jp/en/
