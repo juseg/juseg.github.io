@@ -8,23 +8,24 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: Julien Seguinot
-email:
-description: >-  # ignore newlines
-  Ice, code and images.
-twitter_username: pyjeo
-github_username: juseg
-minimal_mistakes_skin: dirt
-locale: en
-search: true
-logo: favicon-192x192.png
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# permalink: /:categories/:title/
-# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+minimal_mistakes_skin: air
+permalink: /:title/
+
+# Site settings
+locale: en
+title: Julien Seguinot
+subtitle: Freelance glaciologist
+name: Julien Seguinot
+description: Julien's personal webpage.
+url: https://juseg.github.io
+repository: juseg/juseg.github.io
+
+# Masthead
+logo: favicon-192x192.png
+search: true
 
 # Include and exclude from processing
 include:
@@ -38,6 +39,10 @@ exclude:
 # Plugins
 plugins:
   - jekyll-include-cache
+
+# Twitter cards
+twitter:
+  username: "pyjeo"
 
 # Footer
 footer:
@@ -57,6 +62,15 @@ footer:
 
 # Front matter defaults
 defaults:
+
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      show_date: true
 
   # _research
   - scope:
