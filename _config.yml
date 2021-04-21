@@ -44,6 +44,27 @@ plugins:
 twitter:
   username: "pyjeo"
 
+# Site author
+author:
+  name: "Julien Seguinot"
+  avatar: "https://live.staticflickr.com/65535/48936931001_6701ea0f7d_w.jpg"
+  bio: "Independent glaciologist, writer, bicycle traveller. I am dedicated to
+    publishing research results, software, methods and data open access and to
+    communicating science outside universities."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pyjeo"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/juseg"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/pyjeo"
+    - label: "Vimeo"
+      icon: "fab fa-fw fa-vimeo-square"
+      url: "https://vimeo.com/pyjeo"
+
 # Footer
 footer:
   links:

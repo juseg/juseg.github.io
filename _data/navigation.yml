@@ -7,6 +7,8 @@ main:
     url: /alpine-ice-sheet/
   - title: "Portfolio"
     url: /research-papers/
+  - title: "CV"
+    url: /cv/
 
 # Research sidebar navigation menu
 research:
