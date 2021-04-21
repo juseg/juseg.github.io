@@ -58,25 +58,25 @@ feature_row:
 # About
 
 Thank you for passing by! I am a computational and field geoscientist with a
-passion for landscapes, particularly those formed by ancient glaciers such as
-in the [Alps](/alpine-ice-sheet/). I have experience on conducting fieldwork in
-remote environments of the North American [Cordillera](/cordilleran-ice-sheet/)
-and [Greenland](/bowdoin-glacier/). I hold a Ph.D. degree from [Stockholm
-University][SU], and worked at other influential institutions worldwide
-including [ETH Zürich][ETHZ], [GFZ Potsdam][GFZ] and [Hokkaido University][HU].
+passion for landscapes, and particularly landscapes formed by ancient glaciers.
+I have experience with both high performance computing (see my work on
+[Alpine glaciers](/alpine-ice-sheet/) and conducting fieldwork in remote
+environments (in the North American [Cordillera](/cordilleran-ice-sheet/) and
+[Greenland](/bowdoin-glacier/)). I am a doctor from [Stockholm University][SU],
+and had the luck to work and teach at other influential institutions such as
+[ETH Zürich][ETHZ] and [Hokkaido University][HU].
 
 [SU]: https://www.natgeo.su.se/english/
 [ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
 [GFZ]: https://www.gfz-potsdam.de/en/section/earth-system-modelling/
 [HU]: https://www.arc.hokudai.ac.jp/en/
 
-Since the beginning of the pandemic, I am working as an independent researcher,
-primarily driven by the conviction that scientific work and in particular
-methods need to be better communicated outside universities. While much of my
-work has been self-driven and voluntary, I am always on the lookout for new
-ideas and funding (preferably remote and on a consulting basis these days).
-When I don't do science, I am [cycling the world](https://cyclingho.me). Feel
-free to get in touch!
+Through these troubled times, I am working as an independent researcher,
+primarily driven by the conviction that scientific methods need to be better
+communicated outside universities. While much of my work has been self-driven
+and voluntary, I am always on the lookout for new ideas and funding (preferably
+for remote work at the moment). When I don't do science, I am [cycling the
+world](https://cyclingho.me). Feel free to get in touch!
 
 ---
 
