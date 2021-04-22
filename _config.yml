@@ -48,9 +48,9 @@ twitter:
 author:
   name: "Julien Seguinot"
   avatar: "https://live.staticflickr.com/65535/48936931001_6701ea0f7d_w.jpg"
-  bio: "Independent glaciologist, writer, bicycle traveller. I am dedicated to
-    publishing research results, software, methods and data open access and to
-    communicating science outside universities."
+  bio: "Independent glaciologist, science writer, bicycle traveller. I am
+    dedicated to publishing research results, software, methods and data open
+    access and to communicating science outside universities."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

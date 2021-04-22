@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // Crop and centre header images (alt use overlay_image)
-.page__hero {overflow: hidden; padding-top: calc(min(33%, 400px))}
+.page__hero {overflow: hidden; padding-top: calc(min(50%, 400px))}
 .page__hero img {position: absolute; top: -100%; bottom: -100%; margin: auto}
 // .page__hero img {position: relative; top: 50%; transform: translateY(-50%)}
 

@@ -5,13 +5,9 @@ classes: landing
 
 header:
   image: https://live.staticflickr.com/65535/49299032507_979eaa4ea9_h.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption:
     "Glacier Blanc, Dauphiné Alps
     ([**flickr**](https://www.flickr.com/photos/pyjeo/49299032507/))"
-  excerpt: "Personal webpage."
 
 feature_row:
   - image_path: https://i.vimeocdn.com/video/764738148_640x425.jpg
@@ -23,7 +19,7 @@ feature_row:
     btn_label: More on Vimeo
     url: https://vimeo.com/pyjeo
   - image_path: https://live.staticflickr.com/65535/50209002431_df6b3ecd7f_z.jpg
-    image_caption: My nomadic home office (**[flickr](https://www.flickr.com/photos/pyjeo/50209002431)**).
+    image_caption: My nomadic office (**[flickr](https://www.flickr.com/photos/pyjeo/50209002431)**).
     title: Geoscientific software
     excerpt: I am an active Python developer in several
              [open-source projects](/software-data/).
@@ -59,9 +55,9 @@ feature_row:
 
 Thank you for passing by! I am a computational and field geoscientist with a
 passion for landscapes, and particularly landscapes formed by ancient glaciers.
-I have experience with both high performance computing (see my work on
-[Alpine glaciers](/alpine-ice-sheet/) and conducting fieldwork in remote
-environments (in the North American [Cordillera](/cordilleran-ice-sheet/) and
+I have experience with high performance computing (see my work on
+[Alpine glaciers](/alpine-ice-sheet/)) and fieldwork in remote environments (of
+the North American [Cordillera](/cordilleran-ice-sheet/) and
 [Greenland](/bowdoin-glacier/)). I am a doctor from [Stockholm University][SU],
 and had the luck to work and teach at other influential institutions such as
 [ETH Zürich][ETHZ] and [Hokkaido University][HU].
@@ -71,12 +67,11 @@ and had the luck to work and teach at other influential institutions such as
 [GFZ]: https://www.gfz-potsdam.de/en/section/earth-system-modelling/
 [HU]: https://www.arc.hokudai.ac.jp/en/
 
-Through these troubled times, I am working as an independent researcher,
-primarily driven by the conviction that scientific methods need to be better
-communicated outside universities. While much of my work has been self-driven
-and voluntary, I am always on the lookout for new ideas and funding (preferably
-for remote work at the moment). When I don't do science, I am [cycling the
-world](https://cyclingho.me). Feel free to get in touch!
+These days, I work as an independent researcher, driven by the conviction that
+scientific methods need to be better communicated outside universities. While
+much of my work has been self-driven and voluntary, I am on the lookout for new
+projects and funding (preferably remote for now). Finally, when I don't do
+science, I am [cycling the world](https://cyclingho.me).
 
 ---
 
