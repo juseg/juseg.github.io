@@ -9,6 +9,19 @@
 .page__hero img {position: absolute; top: -100%; bottom: -100%; margin: auto}
 // .page__hero img {position: relative; top: 50%; transform: translateY(-50%)}
 
+// Let horizontal rulers span full page
+.page__content hr {clear: both}
+
+// Bold links in archive-item captions
+.archive__item-caption a { font-weight: bold }
+
+// Events wrapper
+@media (min-width: 400px) { .events__wrapper .archive__item-teaser {
+    float: left } }
+.events__wrapper .archive__item { clear: both }
+.events__wrapper .archive__item-teaser {
+    width: 200px; height: 200px; margin: 0 1em 1em 0}
+
 // Poster galleries
 .posters > a {height: 200px; overflow: hidden}
 .posters > a > img {max-width: none; width: auto}
