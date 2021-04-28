@@ -1,0 +1,30 @@
+{% if include.id %}
+  {% assign events = page[include.id] %}
+{% else %}
+  {% assign events = page.events %}
+{% endif %}
+
+<div class="events__wrapper">
+  {% for e in events %}
+  <div class="archive__item">
+    {% if e.image %}
+    <div class="archive__item-teaser">
+      <img src="{{ e.image | relative_url }}" alt="{{ e.alt }}">
+      {% if e.caption %}
+      <span class="archive__item-caption">
+        {{ e.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+      </span>
+      {% endif %}
+    </div>
+    {% endif %}
+    <div class="archive__item-body">
+      <h3 class="archive__item-title">{{ e.title }}</h3>
+      <div class="archive__item-excerpt">{{ e.excerpt | markdownify }}</div>
+      {% if e.url %}
+      <p><a href="{{ e.url | relative_url }}" class="btn btn--primary">Learn more</a></p>
+      {% endif %}
+    </div>
+  </div>
+  <hr>
+  {% endfor %}
+</div>
