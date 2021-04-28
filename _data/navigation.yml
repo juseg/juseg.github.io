@@ -6,7 +6,7 @@ main:
   - title: "Research"
     url: /alpine-ice-sheet/
   - title: "Portfolio"
-    url: /research-papers/
+    url: /museums-exhibitions/
   - title: "CV"
     url: /cv/
 
@@ -29,13 +29,17 @@ research:
 
 # Portfolio sidebar navigation menu
 portfolio:
-  - title: "Releases"
+  - title: "Science communication"
+    children:
+      - title: "Museums & exhibitions"
+        url: /museums-exhibitions/
+      - title: "Software & data"
+        url: /software-data/
+      - title: "Outreach & press"
+        url: /outreach-press/
+  - title: "Academic output"
     children:
       - title: "Research papers"
         url: /research-papers/
-      - title: "Software & data"
-        url: /software-data/
       - title: "Talks & posters"
         url: /talks-posters/
-      - title: "Outreach & press"
-        url: /outreach-press/

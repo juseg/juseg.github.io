@@ -1,6 +1,5 @@
 ---
 title: Museums and exhibitions
-toc: true
 
 current:
   - title: Säntis experiential world
