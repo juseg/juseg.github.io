@@ -2,7 +2,7 @@
 # FIXME add research and portfolio pages
 main:
   - title: "About"
-    url: /
+    url: /about/
   - title: "Blog"
     url: /blog/
   - title: "Research"
