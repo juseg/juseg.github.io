@@ -1,7 +1,8 @@
 ---
-title: Home
+title: About
 layout: splash
 classes: landing
+permalink: /
 
 header:
   image: https://live.staticflickr.com/65535/49299032507_979eaa4ea9_h.jpg
