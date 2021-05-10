@@ -38,6 +38,7 @@ exclude:
 
 # Plugins
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
 
 # Twitter cards
