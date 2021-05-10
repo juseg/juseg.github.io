@@ -7,14 +7,12 @@ main:
     url: /blog/
   - title: "Research"
     url: /alpine-ice-sheet/
-  - title: "Portfolio"
-    url: /museums-exhibitions/
   - title: "CV"
     url: /cv/
 
 # Research sidebar navigation menu
 research:
-  - title: "Projects"
+  - title: "Research projects"
     children:
       - title: "Alpine ice sheet"
         url: /alpine-ice-sheet/
@@ -22,26 +20,28 @@ research:
         url: /bowdoin-glacier/
       - title: "Cordilleran ice sheet"
         url: /cordilleran-ice-sheet/
+  #- title: "Code projects"
+  #  children:
+  #    - title: "Hyoga plotting library"
+  #      url: /hyoga/
+  #    - title: "PyPDD melt model"
+  #      url: /pypdd/
+  - title: "Science communication"
+    children:
+      - title: "Museums & exhibitions"
+        url: /museums-exhibitions/
+      - title: "Outreach & press"
+        url: /outreach-press/
+      - title: "Software & data"
+        url: /software-data/
+      - title: "Research papers"
+        url: /research-papers/
+      - title: "Talks & posters"
+        url: /talks-posters/
+  # move to a new tab
   - title: "Images"
     children:
       - title: "Glacier retreat"
         url: /glacier-retreat/
       - title: "A month in Greenland"
         url: /month-in-greenland/
-
-# Portfolio sidebar navigation menu
-portfolio:
-  - title: "Science communication"
-    children:
-      - title: "Museums & exhibitions"
-        url: /museums-exhibitions/
-      - title: "Software & data"
-        url: /software-data/
-      - title: "Outreach & press"
-        url: /outreach-press/
-  - title: "Academic output"
-    children:
-      - title: "Research papers"
-        url: /research-papers/
-      - title: "Talks & posters"
-        url: /talks-posters/

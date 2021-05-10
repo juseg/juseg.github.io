@@ -119,6 +119,3 @@ collections:
   research:
     output: true
     permalink: /:path/
-  portfolio:
-    output: true
-    permalink: /:path/
