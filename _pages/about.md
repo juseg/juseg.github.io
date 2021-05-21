@@ -6,9 +6,9 @@ author_profile: true
 
 ---
 
-Thank you for passing by! I am a computational and field geoscientist with a
-passion for landscapes, and particularly landscapes formed by ancient glaciers.
-I have experience with high performance computing (see my work on
+Thank you for taking a look at my homepage. I am a computational geoscientist
+with a passion for glacial landscapes. I have a ten-years experience with
+Python programming, high-performance computing (see my work on
 [Alpine glaciers](/alpine-ice-sheet/)) and fieldwork in remote environments (of
 the North American [Cordillera](/cordilleran-ice-sheet/) and
 [Greenland](/bowdoin-glacier/)). I am a doctor from [Stockholm University][SU],
