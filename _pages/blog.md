@@ -1,6 +1,6 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: posts
-entries_layout: list
+layout: home
+
 ---
