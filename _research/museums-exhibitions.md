@@ -18,7 +18,8 @@ upcoming:
     image: assets/photos/canmandawe-_VwbZ3mn2Sk-unsplash-320x320.jpg
     caption: C. Mandawe (**[unsplash](https://unsplash.com/photos/_VwbZ3mn2Sk)**)
     excerpt: Giardini della Biennale, Venice, 22 May -- 21 Nov. 2021 via
-             [ETH Zürich](https://vogt.arch.ethz.ch/en/).
+             [ETH Zürich](https://vogt.arch.ethz.ch/en/)
+             ([movie](https://www.youtube.com/watch?v=sC8CHTM6ZU0)).
     url: https://www.labiennale.org/en/architecture/2021/vogt-landscape-architects
   - title: Froid
     image: assets/photos/sailko-palaisderumine-wikimedia-320x320.jpg
