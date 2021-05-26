@@ -45,15 +45,3 @@ science, I am [cycling the world](https://cyclingho.me).
 | **2007** | **B.Sc.** in physics, ENS & Univ. Pierre et Marie Curie, Paris, France |
 | **2006** | **Prépa** physics and chemistry, lycée Faidherbe, Lille, France        |
 | **2004** | **Baccalaureate** science stream, lycée Kernanec, Marcq-en-Barœul, France |
-
-## Contact
-
-I can read French, English, German and Swedish.
-
-<!-- FIXME add contact page and FAQ -->
-
-**Email:**
-   *first name two first letters* +
-   *last name three first letters* + at +
-   *posteo* and then dot + *eu*.
-{: .notice--info}
