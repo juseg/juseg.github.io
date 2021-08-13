@@ -11,6 +11,7 @@ navigation:
   - {name: 'About', link: '/about'}
   - {name: 'Blog', link: '/blog'}
   - {name: 'Research', link: '/research'}
+  - {name: 'Publications', link: '/publications'}
   - {name: 'Contact', link: '/contact'}
 github_username: juseg
 

@@ -1,21 +1,16 @@
 ---
-title: Research papers
-permalink: /research-papers/
+title: Publications
+permalink: /publications/
+
 ---
 
-
-Preprint
---------
+## Research papers
 
 [16]
 : **J. Seguinot** and I. Delaney.
-  Last glacial cycle glacier erosion potential in the Alps.
-  *Earth Surf. Dynam. Discuss.*,
-  <https://doi.org/10.5194/esurf-2021-12>, in review, 2021.
-
-
-Reviewed articles
------------------
+  Last-glacial-cycle glacier erosion potential in the Alps.
+  *Earth Surf. Dynam.*, 9, 923–935,
+  <https://doi.org/10.5194/esurf-9-923-2021>, 2021.
 
 [15]
 : E. C. H. van Dongen, G. Jouvet, S. Sugiyama, E. A .Podolskiy, M. Funk,
@@ -125,8 +120,7 @@ Reviewed articles
   <https://doi.org/10.1029/2008JB005955>, 2009.
 
 
-Theses
-------
+## Theses
 
 [4]
 : **J. Seguinot**.
@@ -154,8 +148,7 @@ Theses
   <https://doi.org/10.31237/osf.io/wnejz>, 2007.
 
 
-Reviews
--------
+## Reviews
 
 [4]
 : J. K. Cuzzone, N.-J. Schlegel, M. Morlighem, E. Larour, J. P. Briner,
