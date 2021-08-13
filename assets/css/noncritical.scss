@@ -1,0 +1,23 @@
+---
+# The front matter tells Jekyll to process Liquid
+---
+
+/* override theme palette */
+$primary: #369;
+
+/* import theme sass */
+@import "jekyll-keels-noncritical";
+
+// Events wrapper
+@media (min-width: 400px) { .events__wrapper .archive__item-teaser {
+    float: left } }
+.events__wrapper .archive__item { clear: both }
+.events__wrapper .archive__item-teaser {
+    width: 200px; height: 200px; margin: 0 1em 1em 0}
+
+// Poster galleries
+.posters > a {height: 200px; overflow: hidden}
+.posters > a > img {max-width: none; width: auto}
+
+// Prevent word wrapping on slider labels
+.beer-reveal[data-beer-label]::after {white-space: nowrap}

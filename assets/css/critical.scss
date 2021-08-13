@@ -1,0 +1,29 @@
+---
+# The frontmatter ensures Jekyll transforms this file into CSS.
+---
+
+/* override theme palette */
+$primary: #369;
+
+/* import theme sass */
+@import "jekyll-keels-critical";
+
+/* dark orange transparent hero (FIXME: add sass variable) */
+.hero::before, .hero--small::before {background: #3693}
+
+/* notices */
+.notice {background-color: #3693; border: 1px dashed #369;
+         border-radius: 4px; padding: 1em}
+
+/* 2:3 aspect ratio for cards */
+.post-card__thumb::after {padding-bottom: 66.667%}
+
+/* table borders (FIXME move to theme) */
+td {
+    padding: 0.5em;
+    border-bottom: 1px solid #b6b6b6;
+}
+table {
+    border-collapse: collapse;
+    margin-bottom: 1.25em;
+}
