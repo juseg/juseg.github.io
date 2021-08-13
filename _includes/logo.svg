@@ -1,0 +1,10 @@
+<svg id="logo" height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    #logo text {fill: #333; font-size: 32px; transition: 0.2s ease-out}
+    #logo:hover text {fill: #369; transition: 0.2s ease-in}
+    #logo:hover #J {transform: translate(2px, 0)}
+    #logo:hover #S {transform: translate(-2px, 0)}
+  </style>
+  <text id="J" x="8" y="44">J</text>
+  <text id="S" x="32" y="44">S</text>
+</svg>
