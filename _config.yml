@@ -10,6 +10,7 @@ tagline: Personal webpage.
 navigation:
   - {name: 'About', link: '/about'}
   - {name: 'Blog', link: '/blog'}
+  - {name: 'Outreach', link: '/outreach'}
   - {name: 'Research', link: '/research'}
   - {name: 'Publications', link: '/publications'}
   - {name: 'Contact', link: '/contact'}

@@ -1,7 +1,13 @@
 ---
-title: Museums and exhibitions
+title: Outreach
+permalink: /outreach/
 
 current:
+  - title: "Mémoire de glace"
+    image: https://www.musee-prehistoire-idf.fr/sites/www.musee-prehistoire-idf.fr/files/styles/img__400x__image_scale__crop_main/public/media/images/7.-vestiges-du-mercenaire-bd.jpg?itok=GjNDSisp
+    excerpt: Musée départemental de préhistoire d'Île-de-France, Nemours,
+             12 Jun. -- 5 Dec. 2021.
+    url: https://www.musee-prehistoire-idf.fr/fr/actualites/lexposition-temporaire-memoire-de-glace
   - title: Säntis experiential world
     image: assets/photos/niklas-tidbury-u22BF2Kdn6k-unsplash-320x320.jpg
     caption: N. Tidbury (**[unsplash](https://unsplash.com/photos/u22BF2Kdn6k)**)
@@ -79,6 +85,7 @@ photos, this will be hugely appreciated!
 
 ## To be confirmed
 
+* An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
 * National Geographic via [doc.station](https://www.docstation.de).
 * A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
 * New exhibition at the [Glacier Garden Lucerne](https://gletschergarten.ch/en).
