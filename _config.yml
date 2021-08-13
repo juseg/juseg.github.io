@@ -1,32 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Jekyll configuration file
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
-permalink: /:title/
-
-# Site settings
-locale: en
+# site settings
 title: Julien Seguinot
-name: Julien Seguinot
-description: Julien's personal webpage.
+description: Glaciers, Python and open-source.
 url: https://juseg.github.io
-repository: juseg/juseg.github.io
 
-# Masthead
-logo: favicon-192x192.png
-search: true
+# theme settings
+tagline: Personal webpage.
+navigation:
+  - {name: 'About', link: '/about'}
+  - {name: 'Blog', link: '/blog'}
+  - {name: 'Research', link: '/research'}
+  - {name: 'Contact', link: '/contact'}
+github_username: juseg
 
-# Include and exclude from processing
+# build settings
+remote_theme: juseg/keels
+permalink: /:title/
 include:
   - _pages
 exclude:
@@ -35,80 +25,8 @@ exclude:
   - LICENSE
   - vendor
 
-# Plugins
+# jekyll plugins
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
-
-# Twitter cards
-twitter:
-  username: "pyjeo"
-
-# Site author
-author:
-  name: "Julien Seguinot"
-  avatar: "https://live.staticflickr.com/65535/48936931001_6701ea0f7d_w.jpg"
-  bio: "Earth data scientist, writer and bicycle traveller. I am
-    dedicated to publishing research results, software, methods and data open
-    access and to communicating science outside the universities."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/juseg"
-    - label: "Flickr"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://flickr.com/pyjeo"
-    - label: "Vimeo"
-      icon: "fab fa-fw fa-vimeo-square"
-      url: "https://vimeo.com/pyjeo"
-
-# Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/juseg"
-    - label: "Flickr"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://flickr.com/pyjeo"
-    - label: "Vimeo"
-      icon: "fab fa-fw fa-vimeo-square"
-      url: "https://vimeo.com/pyjeo"
-
-# Front matter defaults
-defaults:
-
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      show_date: true
-
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      classes: wide
-      sidebar:
-        nav: "research"
-
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      classes: wide
-      sidebar:
-        nav: "portfolio"
-
-# Collections
-collections:
-  research:
-    output: true
-    permalink: /:path/
+  - jekyll-seo-tag
+  - jekyll-sitemap
