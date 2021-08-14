@@ -8,12 +8,6 @@ $primary: #369;
 /* import theme sass */
 @import "jekyll-keels-noncritical";
 
-// Events wrapper
-@media (min-width: 400px) { .events__wrapper .archive__item-teaser {
-    float: left } }
-.events__wrapper .archive__item { clear: both }
-.events__wrapper .archive__item-teaser {
-    width: 200px; height: 200px; margin: 0 1em 1em 0}
 
 // Poster galleries
 .posters > a {height: 200px; overflow: hidden}
