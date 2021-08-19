@@ -12,6 +12,18 @@ permalink: /publications/
   *Earth Surf. Dynam.*, 9, 923–935,
   <https://doi.org/10.5194/esurf-9-923-2021>, 2021.
 
+  [data]
+  : [Alpine ice sheet erosion potential aggregated variables](
+      https://doi.org/10.5281/zenodo.4495418).
+
+  [video]
+  : [Alpine glaciers erosion potential over the last 120000 years](
+      https://vimeo.com/503162771).
+  : [Alpine glacial cycle erosion vs ice volume](
+      https://vimeo.com/512478926).
+  : [Alpine glacial cycle erosion vs bedrock altitude](
+      https://vimeo.com/512479008).
+
 [15]
 : E. C. H. van Dongen, G. Jouvet, S. Sugiyama, E. A .Podolskiy, M. Funk,
   D. I. Benn, F. Lindner, A. Bauder, **J. Seguinot**, S. Leinss, and F. Walter.
@@ -19,11 +31,25 @@ permalink: /publications/
   *The Cryosphere*, 15, 485–500,
   <https://doi.org/10.5194/tc-15-485-2021>, 2021.
 
+  [data]
+  : [Photo time series from Bowdoin Glacier, Greenland (2014-2019)](
+      https://doi.org/10.3929/ethz-b-000455251).
+  : [GPS measurements of glacier flow on Bowdoin Glacier, Greenland, July 2019](
+      https://doi.org/10.3929/ethz-b-000455331).
+  : [Mapping of the calving front of Bowdoin Glacier, Northwest Greenland, by UAV photogrammetry (2017)](
+      https://doi.org/10.3929/ethz-b-000455215).
+  : [Mapping of the calving front of Bowdoin Glacier, Northwest Greenland, by UAV photogrammetry (2019)](
+      https://doi.org/10.3929/ethz-b-000455210).
+
 [14]
 : **J. Seguinot**, M. Funk, A. Bauder, T. Wyder, C. Senn, and S. Sugiyama.
   Englacial warming indicates deep crevassing in Bowdoin Glacier, Greenland.
   *Front. Earth Sci.*, 8,
   <https://doi.org/10.3389/feart.2020.00065>, 2020.
+
+  [data]
+  : [Bowdoin Glacier borehole temperature data](
+      https://doi.org/10.5281/zenodo.3695960).
 
 [13]
 : M. A. Imhof, D. Cohen, **J. Seguinot**, A. Aschwanden, M. Funk and G. Jouvet.
@@ -40,11 +66,35 @@ permalink: /publications/
   *J. Glaciology*, 64(248):897--916,
   <https://doi.org/10.1017/jog.2018.78>, 2018.
 
+  [code]
+  : [PISM scripts for the Subglacial Hydrology Model Intercomparison Project](
+        https://github.com/juseg/pism-shmip).
+
+  [data]
+  : [Subglacial Hydrology Model Intercomparison Project (SHMIP) Data Submissions](
+        https://doi.org/10.3929/ethz-b-000249168).
+
 [11]
 : **J. Seguinot**, S. Ivy-Ochs, G. Jouvet, M. Huss, M. Funk, and F. Preusser.
   Modelling last glacial cycle ice dynamics in the Alps.
   *The Cryosphere*, 12:3265--3285,
   <https://doi.org/10.5194/tc-12-3265-2018>, 2018.
+
+  [data]
+  : [Alpine ice sheet glacial cycle simulations aggregated variables](
+      https://doi.org/10.5281/zenodo.1423159).
+  : [Alpine ice sheet glacial cycle simulations continuous variables](
+      https://doi.org/10.5281/zenodo.1423175).
+
+  [press]
+  : [An ice age lasting 115,000 years in two minutes (CSCS](
+      https://www.cscs.ch/science/earth-env-science/2018/an-ice-age-lasting-115000-years-in-two-minutes),
+    also on [ETHZ](
+      https://ethz.ch/en/news-and-events/eth-news/news/2018/11/an-ice-age-lasting-115000-years-in-two-minutes.html)).
+
+  [video]
+  : Multiple animations in [english](https://vimeo.com/showcase/5585611) and
+    [other](https://vimeo.com/showcase/7913213) languages.
 
 [10]
 : G. Jouvet, Y. Weidmann, M. Kneib, M. Detert, **J. Seguinot**, D. Sakakibara,
@@ -78,6 +128,10 @@ permalink: /publications/
   *The Cryosphere*, 11(2):911--921,
   <https://doi.org/10.5194/tc-11-911-2017>, 2017.
 
+  [press]
+  : [When solar-powered drones meet Arctic glaciers](
+      https://ethz.ch/en/news-and-events/eth-news/news/2017/10/arctic-surveying-with-solar-drones.html).
+
 [6]
 : P. Becker, **J. Seguinot**, G. Jouvet, and M. Funk.
   Last Glacial Maximum precipitation pattern in the Alps inferred from glacier
@@ -91,6 +145,10 @@ permalink: /publications/
   cycle.
   *The Cryosphere*, 10(2):639--664,
   <https://doi.org/10.5194/tc-10-639-2016>, 2016.
+
+  [data]
+  : [Cordilleran ice sheet glacial cycle simulations continuous variables](
+      <https://doi.org/10.5281/zenodo.3606536>).
 
 [4]
 : **J. Seguinot**, C. Khroulev, I. Rogozhina, Q. Zhang, and A. P. Stroeven.
@@ -112,6 +170,14 @@ permalink: /publications/
   degree-day glacier surface mass-balance model
   *J. Glaciol.*, 59(218):1202--1204,
   <https://doi.org/10.3189/2013JoG13J081>, 2013.
+
+  [code]
+  : [PyPDD, a positive degree day model for glacier surface mass balance](
+      https://github.com/juseg/pypdd).
+
+  [data]
+  : [Monthly standard deviation of air temperature from ERA-Interim](
+      https://www.igsoc.org/hyperlink/13j081).
 
 [1]
 : C. Petit, Y. Gunnell, N. Gonga-Saholiariliva, B. Meyer, and **J. Séguinot**.
