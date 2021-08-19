@@ -1,10 +1,27 @@
 ---
 title: Publications
 permalink: /publications/
-
+gallery:
+  - image: https://i.vimeocdn.com/video/1040974637?mw=300
+    target: https://vimeo.com/503162771
+    title: Alpine glaciers erosion potential over the last 120000 years
+  - image: https://i.vimeocdn.com/video/1061121009?mw=300
+    target: https://vimeo.com/512478926
+    title: Alpine glacial cycle erosion vs ice volume
+  - image: https://i.vimeocdn.com/video/1061123859?mw=300
+    target: https://vimeo.com/512479008
+    title: Alpine glacial cycle erosion vs bedrock altitude
+scripts:
+  - magnificpopup
 ---
 
 ## Research papers
+
+{% capture gallery %}
+{% include gallery.html class="gallery iframe notice"
+  caption="**New:** animations of last-glacial-cycle glacier erosion potential
+           in the Alps." %}
+{% endcapture %}
 
 [16]
 : **J. Seguinot** and I. Delaney.
@@ -23,6 +40,8 @@ permalink: /publications/
       https://vimeo.com/512478926).
   : [Alpine glacial cycle erosion vs bedrock altitude](
       https://vimeo.com/512479008).
+
+  {{ gallery | normalize_whitespace }}
 
 [15]
 : E. C. H. van Dongen, G. Jouvet, S. Sugiyama, E. A .Podolskiy, M. Funk,
