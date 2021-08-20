@@ -15,3 +15,11 @@ $primary: #369;
 
 // Prevent word wrapping on slider labels
 .beer-reveal[data-beer-label]::after {white-space: nowrap}
+
+// tables
+table th, table td {
+  border-width: 0px 0px 1px 0px;
+}
+table {
+  border-width: 0;
+}

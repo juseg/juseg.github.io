@@ -176,5 +176,5 @@ assign bedrock uplift first so that it is corrected for during interpolation.
 {: .notice--info}
 
 {% include figure.html
-   src="https://hyoga.readthedocs.io/en/latest/_images/sphx_glr_plot_interpolated_resolutions_001.png"
+   image="https://hyoga.readthedocs.io/en/latest/_images/sphx_glr_plot_interpolated_resolutions_001.png"
    caption="Interpolation of model results on topographies with increasing resolution." %}

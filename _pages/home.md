@@ -1,6 +1,8 @@
 ---
 title: Home
 permalink: /
+scripts:
+  - magnificpopup
 ---
 
 **New:** Ian Delaney and I have a [publication](/publications/) about

@@ -10,10 +10,9 @@ author_profile: true
 
 Thank you for taking a look at my homepage. I am a computational geoscientist
 with a passion for glacial landscapes. I have a ten-years experience with
-Python programming, high-performance computing (see my work on
-[Alpine glaciers](/alpine-ice-sheet/)) and fieldwork in remote environments (of
-the North American [Cordillera](/cordilleran-ice-sheet/) and
-[Greenland](/bowdoin-glacier/)). I obtained my doctorate at [Stockholm
+Python programming, high-performance computing (of glaciers dynamics) and
+fieldwork in remote environments (of the North American Cordillera and
+Greenland). I obtained my doctorate at [Stockholm
 University][SU], and had the luck to work and teach at other influential
 institutions such as [ETH Zürich][ETHZ] and [Hokkaido University][HU].
 
@@ -26,7 +25,7 @@ Since the beginning of the pandemic, I have been unemployed. Driven by the
 conviction that scientific methods need to be better communicated outside
 universities, I try and continue my research and science communication
 work, independently and at my own glacial pace. When I get bored about it, I
-take my bike [cycle the world](https://cyclingho.me). I am always on the
+take my bike and [cycle the world](https://cyclingho.me). I am always on the
 lookout for cool projects and especially funding, so don't hesitate to
 [contact](/contact/) me.
 
