@@ -18,9 +18,11 @@ one of my motivations to, earlier this year, publish the first versions of
 [hyoga]: https://hyoga.readthedocs.io
 [氷河]: https://jisho.org/word/氷河
 
-{% include vimeo.html id="321913054"
-   caption="Visualization of modelled Linth and Reuss paleoglaciers using an
-            interpolation method now included in hyoga." %}
+{% include figure.html class="video"
+  image="https://i.vimeocdn.com/video/764738148?mw=400"
+  target="https://vimeo.com/21913054"
+  caption="Visualization of modelled Linth and Reuss paleoglaciers using an
+           interpolation method now included in hyoga." %}
 
 
 ## A bit of history

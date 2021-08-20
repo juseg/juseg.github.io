@@ -1,9 +1,0 @@
-<figure class="{{ include.class }}">
-  <a href="{{ include.href }}" title="{{ include.caption }}">
-     <img src="{{ include.src }}" alt="{{ include.caption }}">
-  </a>
-  <figcaption>
-    {{ include.caption | markdownify | remove: "<p>" | remove: "</p>"  }}
-    {% if include.flickr %}(<a href="{{ include.flickr }}">flickr</a>){% endif %}
-  </figcaption>
-</figure>
