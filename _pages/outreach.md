@@ -1,22 +1,65 @@
 ---
 title: Outreach
 permalink: /outreach/
+gallery:
+  - image: https://i.vimeocdn.com/video/763188177?mw=400
+    target: https://vimeo.com/320693579
+    title: Alpien ice sheet (fixed)
+  - image: https://i.vimeocdn.com/video/739639293?mw=400
+    target: https://vimeo.com/294517816
+    title: Alpine ice sheet (zoomout)
+  - image: https://i.vimeocdn.com/video/764738148?mw=400
+    target: https://vimeo.com/321913054
+    title: Reuss and Linth Glaciers
+  - image: https://i.vimeocdn.com/video/834572586?mw=400
+    target: https://vimeo.com/375719360
+    title: Bedrock uplift
+  - image: https://i.vimeocdn.com/video/1040974637?mw=400
+    target: https://vimeo.com/503162771
+    title: Erosion potential
+  - image: https://i.vimeocdn.com/video/1034505086?mw=400
+    target: https://vimeo.com/499942860
+    title: Cordillera ice sheet
+scripts:
+  - magnificpopup
 ---
 
-My work on Alpine paleoglaciers has been reused in several museums and
-exhibitions. This is a tentative list of current, past, future and permanent
-venues to which I provided data or given explicit consent to reuse on-line
-material.
+## Glacier animations
 
-**Tip:** while I am currently unable to visit these exhibitions, I would love
-to see my work put in context. Please do not hesitate to get in touch and send
-photos, this will be hugely appreciated!
-{: .notice style="clear: both"}
+I find that glaciers are gorgeous. Of course, I have worked on them for a long
+time, so I am not very objective about it. But I imagine at least some people
+agree with this.
+
+To enjoy the beauty of present glaciers, you can use a pair of hiking boots, or
+a good photography book. But through my work, I also find beauty in glaciers
+that existed thousands of years ago. When I examine my modelling results, I
+imagine the great glaciers flowing steadily through the mountains, excavating
+the valley floor and building little moraines where we see them today.
+When researchers publish their results, though, we cannot be so poetic about it
+(just look at my [publications](publications)). This is why I like to spend a
+lot of time computing colourful and attractive glacier animations. While these
+reconstructions are not everywhere accurate, I hope those watching will become
+interested about glaciers and understand them in a new way. I think this has
+become a very important part of my work.
+
+{% include gallery.html class="gallery video"
+  caption="Paleoglacier animations ([more on vimeo](https://vimeo.com/pyjeo))." %}
 
 
 ## Museums and exhibitions
 
+My glacier animations have been reused in several museums and exhibitions. I
+am trying to keep a list of them here. While I do not have the budget to travel
+to all these places, if you happen to visit one of them, please do not hesitate
+to [get in touch](/contact/) and send photos. It will be hugely appreciated!
+
+{: style="margin:0 auto; width: 200px"}
+{% include figure.html class="right"
+  image="/assets/photos/julien-n7p-191122-174840-dev-320x320.jpg"
+  caption="Arch. Museum Solothurn" %}
+
 ### To be confirmed
+
 * [South Tyrol Museum of Archaeology](https://www.iceman.it/en),
   via [Geoville](https://www.geoville.com).
 * An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
