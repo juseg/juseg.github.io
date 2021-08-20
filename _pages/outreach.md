@@ -66,7 +66,6 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
 * National Geographic via [doc.station](https://www.docstation.de).
 * A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
 * New exhibition at the [Glacier Garden Lucerne](https://gletschergarten.ch/en).
-* *A la rencontre des lieux sacrés en Valais*, movie.
 * Parc National du Mercantour.
 
 ### Ongoing exhibitions
@@ -139,3 +138,12 @@ Since 23 Nov. 2019
 * [European Glaciers have been coming and going for thousands of years, but now they’re just going](
     https://www.atlasobscura.com/articles/european-glaciers-have-been-coming-and-going-for-tens-of-thousands-of-years-now-theyre-just-going).
   *Atlas Obscura*, Nov. 6, 2018.
+
+## Derived works
+
+* [Stereoscopic Time Machine "Alpenblick"](
+    https://samuelbucheli.myportfolio.com/stereoscopic-time-machine-alpenblick),
+  augmented reality for the [Glacier Garden Lucerne](
+    https://gletschergarten.ch) by Samuel J. Bucheli, 2021.
+* *À La Rencontre Des Lieux Sacrés En Valais*, documentary by Suzana Mistro shown at several movie festivals in Switzerland during summer 2021
+  ([trailer](https://www.youtube.com/watch?v=0qmu3VL-QYA), [cinesion](https://www.cinesion.ch/resume?movie=2836)).
