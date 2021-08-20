@@ -18,7 +18,7 @@ scripts:
 ## Research papers
 
 {% capture gallery %}
-{% include gallery.html class="gallery iframe notice"
+{% include gallery.html class="gallery video notice"
   caption="**New:** animations of last-glacial-cycle glacier erosion potential
            in the Alps." %}
 {% endcapture %}
@@ -106,10 +106,24 @@ scripts:
       https://doi.org/10.5281/zenodo.1423175).
 
   [press]
-  : [An ice age lasting 115,000 years in two minutes (CSCS](
-      https://www.cscs.ch/science/earth-env-science/2018/an-ice-age-lasting-115000-years-in-two-minutes),
-    also on [ETHZ](
-      https://ethz.ch/en/news-and-events/eth-news/news/2018/11/an-ice-age-lasting-115000-years-in-two-minutes.html)).
+  : [An ice age lasting 115,000 years in two minutes](
+      https://www.cscs.ch/science/earth-env-science/2018/an-ice-age-lasting-115000-years-in-two-minutes/).
+    *CSCS Science*, 6 Nov. 2018.
+  : [115'000 Jahre Eiszeit in zwei Minuten](
+      https://www.ethz.ch/content/main/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html).
+    *ETH-News*, 6 Nov. 2018.
+  : [Als Bern und Zürich noch von Eis bedeckt waren](
+        https://www.nzz.ch/wissenschaft/als-bern-und-zuerich-noch-von-eis-bedeckt-waren-ld.1434273),
+    *Neue Zürcher Zeitung*, 6 Nov. 2018.
+  : [Eiszeiten: Simulation zeigt Gedeih und Verderb der Alpengletscher](
+      https://www.spektrum.de/video/simulation-zeigt-gedeih-und-verderb-der-alpengletscher/1606514).
+    *Spektrum der Wissenschaft*, 6 Nov. 2018.
+  : [La glaciazione delle Alpi in 2 minuti](
+      http://www.ansa.it/canale_scienza_tecnica/notizie/terra_poli/2018/11/08/la-glaciazione-delle-alpi-in-2-minuti-_60dd9dd8-2a24-496d-846e-c1d591cb79d2.html).
+    *ANSA Scienza & Tecnica*, 8 Nov. 2018.
+  : [Au temps des glaciers](
+      https://www.rts.ch/info/suisse/10601976-au-temps-des-glaciers.html#chap01).
+    *RTS*, 16 Aug. 2019.
 
   [video]
   : Multiple animations in [english](https://vimeo.com/showcase/5585611) and
