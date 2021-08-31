@@ -24,11 +24,12 @@ scripts:
   - magnificpopup
 ---
 
-## Glacier animations
+I find that glaciers and glacial landscapes are gorgeous. Of course, I have
+worked on them for a long time, so I am not very objective about it. But I
+imagine at least some people agree with this.
 
-I find that glaciers are gorgeous. Of course, I have worked on them for a long
-time, so I am not very objective about it. But I imagine at least some people
-agree with this.
+
+## Glacier animations
 
 To enjoy the beauty of present glaciers, you can use a pair of hiking boots, or
 a good photography book. But through my work, I also find beauty in glaciers

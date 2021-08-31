@@ -15,6 +15,13 @@ scripts:
   - magnificpopup
 ---
 
+Assets such as animations, datasets, software and selected press articles are
+listed under each publication. Note that the Github links and Zenodo DOIs point
+to evolving products which may differ from versions used in the publication.
+Please mention the release number or version DOI when referring to code and
+data products in publications.
+
+
 ## Research papers
 
 {% capture gallery %}
