@@ -10,9 +10,10 @@ tagline: Personal webpage.
 navigation:
   - {name: 'About', link: '/about'}
   - {name: 'Blog', link: '/blog'}
+  - {name: 'Contact', link: '/contact'}
   - {name: 'Outreach', link: '/outreach'}
   - {name: 'Publications', link: '/publications'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Software', link: '/software'}
 github_username: juseg
 
 # build settings
