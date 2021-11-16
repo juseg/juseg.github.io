@@ -2,13 +2,13 @@
 title: Publications
 permalink: /publications/
 gallery:
-  - image: https://i.vimeocdn.com/video/1040974637?mw=300
+  - image: https://i.vimeocdn.com/video/1040974637-48a1b91c7cff91aa34f318a66082c90be6a1fa97d283b40297d1f4d2c62e9495-d?mw=300
     target: https://vimeo.com/503162771
     title: Alpine glaciers erosion potential over the last 120000 years
-  - image: https://i.vimeocdn.com/video/1061121009?mw=300
+  - image: https://i.vimeocdn.com/video/1061121009-0f91c3da278ba8c644fcfc3fd96473022f593bfd6f6aadd0d1b044999a5869fc-d?mw=300
     target: https://vimeo.com/512478926
     title: Alpine glacial cycle erosion vs ice volume
-  - image: https://i.vimeocdn.com/video/1061123859?mw=300
+  - image: https://i.vimeocdn.com/video/1061123859-fe4e18e52edc646cd6abb9983b3597d5ba208a19e58be5e73fb05a9947e2e609-d?mw=300
     target: https://vimeo.com/512479008
     title: Alpine glacial cycle erosion vs bedrock altitude
 scripts:

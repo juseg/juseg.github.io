@@ -2,22 +2,22 @@
 title: Outreach
 permalink: /outreach/
 gallery:
-  - image: https://i.vimeocdn.com/video/763188177?mw=400
+  - image: https://i.vimeocdn.com/video/763188177-77a6b3e57cfde35f710b4e94f833d4cd5d6c116c63bbca89f3af7d34ef4d8604-d?mw=400
     target: https://vimeo.com/320693579
     title: Alpien ice sheet (fixed)
-  - image: https://i.vimeocdn.com/video/739639293?mw=400
+  - image: https://i.vimeocdn.com/video/739639293-4c09dc382659fd63dd9ecae66d49576422741dff070d17bbb55b290145c3a73d-d?mw=400
     target: https://vimeo.com/294517816
     title: Alpine ice sheet (zoomout)
-  - image: https://i.vimeocdn.com/video/764738148?mw=400
+  - image: https://i.vimeocdn.com/video/764738148-3bbe1457a7a5239908d5ba4cbb9ea1bf27e791c651e62a0a35640e4832061407-d?mw=400
     target: https://vimeo.com/321913054
     title: Reuss and Linth Glaciers
-  - image: https://i.vimeocdn.com/video/834572586?mw=400
+  - image: https://i.vimeocdn.com/video/834572586-0cb5339e7e23224bfb9a93a8fb6abb32f51d996691b48347066976f807afead1-d?mw=400
     target: https://vimeo.com/375719360
     title: Bedrock uplift
-  - image: https://i.vimeocdn.com/video/1040974637?mw=400
+  - image: https://i.vimeocdn.com/video/1040974637-48a1b91c7cff91aa34f318a66082c90be6a1fa97d283b40297d1f4d2c62e9495-d?mw=400
     target: https://vimeo.com/503162771
     title: Erosion potential
-  - image: https://i.vimeocdn.com/video/1034505086?mw=400
+  - image: https://i.vimeocdn.com/video/1034505086-0d90a123ebf8020b2e151d13462e3e24402f614251098e4f6bfc46ac837fe2d9-d?mw=400
     target: https://vimeo.com/499942860
     title: Cordillera ice sheet
 scripts:

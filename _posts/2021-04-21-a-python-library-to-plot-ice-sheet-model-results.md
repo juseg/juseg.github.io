@@ -1,8 +1,8 @@
 ---
 title: A Python library to plot ice sheet model results
 header:
-  teaser: "https://i.vimeocdn.com/video/764738148_960x540.jpg"
-  image: "https://i.vimeocdn.com/video/764738148_1920x1080.jpg"
+  teaser: "https://i.vimeocdn.com/video/764738148-3bbe1457a7a5239908d5ba4cbb9ea1bf27e791c651e62a0a35640e4832061407-d_400x266"
+  image: "https://i.vimeocdn.com/video/764738148-3bbe1457a7a5239908d5ba4cbb9ea1bf27e791c651e62a0a35640e4832061407-d?mw=1920"
   image_description: "Glacier streamlines on high-resolution topography."
   caption: "Interpolated visual of modelled Linth and Reuss paleoglaciers."
 ---
@@ -19,8 +19,8 @@ one of my motivations to, earlier this year, publish the first versions of
 [氷河]: https://jisho.org/word/氷河
 
 {% include figure.html class="video"
-  image="https://i.vimeocdn.com/video/764738148?mw=400"
-  target="https://vimeo.com/21913054"
+  image="https://i.vimeocdn.com/video/764738148-3bbe1457a7a5239908d5ba4cbb9ea1bf27e791c651e62a0a35640e4832061407-d?mw=400"
+  target="https://vimeo.com/321913054"
   caption="Visualization of modelled Linth and Reuss paleoglaciers using an
            interpolation method now included in hyoga." %}
 
