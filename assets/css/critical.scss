@@ -13,7 +13,8 @@ $primary: #369;
 
 /* notice boxes */
 .notice {background-color: rgba($primary, .2); border: 1px dashed $primary}
-.notice {border-radius: 4px; padding: 1em}
+.notice--warning {background-color: rgba(#c33, .2); border: 1px dashed $primary}
+.notice, .notice--warning {border-radius: 4px; padding: 1em}
 
 /* 2:3 aspect ratio for cards */
 .post-card__thumb::after {padding-bottom: 66.667%}

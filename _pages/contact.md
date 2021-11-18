@@ -9,6 +9,17 @@ To contact me you will need to decipher this little enigma (don't worry, it
 works). But before you write, I ask that you please go through the short FAQ
 section below.
 
+**Warning:**
+Recently I have struggled to respond emails. For the last six months, I have
+been expecting a visa for a country that has kept borders closed to immigrant
+researchers against my and my future employers' expectations, and this has
+affected my ability to work. It will take me some time to get back to "normal".
+Therefore I ask that you please consider contacting someone else if you can,
+and otherwise be prepared for a very slow response. Meanwhile, I can happily
+report that I will soon be back to academia and to getting paid to work on
+glaciers.
+{: .notice--warning}
+
 **Email:**
    *first name two first letters* +
    *last name three first letters* + at +
