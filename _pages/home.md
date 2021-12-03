@@ -5,8 +5,10 @@ scripts:
   - magnificpopup
 ---
 
-**New:** Ian Delaney and I have a [publication](/publications/) about
-last-glacial-cycle glacier erosion potential in the Alps.
+**News:** For the last six months I have been waiting to begin a new job in
+Japan. As for thousands other in my situation, this has ruined my mental health
+and ability to work. Check out my
+[blog post](/research-is-not-tourism-the-long-wait-for-japan/) to know more.
 {: .notice}
 
 Welcome to my professional homepage. I develop (mostly Python) software for the
