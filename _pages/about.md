@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include figure.html class="right"
-  image="https://live.staticflickr.com/65535/50209307927_8df91423cf_m.jpg" %}
+  image="https://live.staticflickr.com/65535/48936931001_6701ea0f7d_m.jpg" %}
 
 Thank you for taking a look at my homepage. I am a computational geoscientist
 with a passion for glacial landscapes. I have a ten-years experience with
