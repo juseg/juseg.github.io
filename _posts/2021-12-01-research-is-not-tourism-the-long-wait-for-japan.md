@@ -9,6 +9,12 @@ header:
 
 So I have got some exciting personal news to share. I will soon be back to academic research and glaciology. I have got a job, a visa. I am eager and about to get back to work in a country that has been locked for months: Japan. No, I'm kidding. It's a joke! I drafted this opening paragraph a few days ago, but it's outdated now.
 
+**Note:** if you read this story, please consider helping me to continue my
+research, and many others in similar situations, by signing this
+[petition to the European Parliament](https://www.europarl.europa.eu/petitions/en/petition/content/0606%252F2021/html/Petition-No-0606%252F2021-by-G.L.-%2528Italian%2529-on-the-situation-of-EU-nationals-seeking-to-study-and-work-in-Japan-following-the-entry-ban-during-the-COVID-19-pandemic)
+calling to defend bilateral agreements with Japan.
+{: .notice}
+
 ## Home with a view
 
 In May 2021, I lived in a small studio facing east over the ever-changing Aegean Sea. Greece was slowly awakening from a long winter lock-down, and the first tourists coming back to the islands. The Cycladic house I had occupied for the past six months was both my home and my office. Restaurants were reopening, the sea had begun to warm, days without hot water were getting rare, and when the wind came down, one could make out the snow-capped mountains of Crete, a surreal strip of land floating some hundred kilometres in the distance.
