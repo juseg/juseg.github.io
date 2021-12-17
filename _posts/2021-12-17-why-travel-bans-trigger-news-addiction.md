@@ -1,10 +1,10 @@
 ---
-title: Why travel bans are so addictive
+title: Why travel bans trigger news addiction
 header:
-  teaser:
-  image:
-  image_description:
-  caption:
+  teaser: "https://live.staticflickr.com/65535/49912250696_161d22b24b_w.jpg"
+  image: "https://live.staticflickr.com/65535/49912250696_161d22b24b_b.jpg"
+  image_description: "Yellow fog and snowy rocks"
+  caption: "Winter in another world"
 ---
 
 These days I often hear things like "come on, you should give up now, get a job somewhere else! Why do you want to go to such a country? But maybe it is your dream to go to Japan. That's why you've been so patient, right?" But the truth is more complicated. I doubt anyone stuck with the [Japan travel ban](/research-is-not-tourism-the-long-wait-for-japan/) was ready for such a long wait. The truth, I believe, is that many of us have become addicted to it.
