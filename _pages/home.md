@@ -5,23 +5,6 @@ scripts:
   - magnificpopup
 ---
 
-**News:** For the last six months I have been waiting to begin a new job in
-Japan. As for thousands other in my situation, this has ruined my mental health
-and ability to work. Please read my
-[blog post](/research-is-not-tourism-the-long-wait-for-japan/) to know more,
-and sign this
-[petition to the European Parliament](https://www.europarl.europa.eu/petitions/en/petition/content/0606%252F2021/html/Petition-No-0606%252F2021-by-G.L.-%2528Italian%2529-on-the-situation-of-EU-nationals-seeking-to-study-and-work-in-Japan-following-the-entry-ban-during-the-COVID-19-pandemic)
-calling on Europe to defend bilateral agreements with Japan.
-{: .notice}
-
-{% include figure.html class="video notice--warning"
-  image="https://i3.ytimg.com/vi/QcQrK7rag_g/mqdefault.jpg"
-  target="https://www.youtube.com/watch?v=QcQrK7rag_g" caption="W.H.O.
-  criticies Japan policies - Travel bans will not prevent the international
-  spread of Omicron" %}
-
----
-
 Welcome to my professional homepage. I develop (mostly Python) software for the
 geosciences and prepare [animations](/outreach/) of glaciers in the past. Every
 now and again I still write academic [publications](/publications/).
