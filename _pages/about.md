@@ -9,25 +9,14 @@ author_profile: true
   image="https://live.staticflickr.com/65535/48936931001_6701ea0f7d_m.jpg" %}
 
 Thank you for taking a look at my homepage. I am a computational geoscientist
-with a passion for glacial landscapes. I have a ten-years experience with
+with a passion for glacial landscapes, currently working at the [Department of
+Biological Sciences][BIO] at the [University of Bergen][UIB]. I have used
 Python programming, high-performance computing (of glaciers dynamics) and
 fieldwork in remote environments (of the North American Cordillera and
-Greenland). I obtained my doctorate at [Stockholm
-University][SU], and had the luck to work and teach at other influential
-institutions such as [ETH Zürich][ETHZ] and [Hokkaido University][HU].
+Greenland) to try and understand glacier changes past and present.
 
-[SU]: https://www.natgeo.su.se/english/
-[ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
-[GFZ]: https://www.gfz-potsdam.de/en/section/earth-system-modelling/
-[HU]: https://www.arc.hokudai.ac.jp/en/
-
-Since the beginning of the pandemic, I have been unemployed. Driven by the
-conviction that scientific methods need to be better communicated outside
-universities, I try and continue my research and science communication
-work, independently and at my own glacial pace. When I get bored about it, I
-take my bike and [cycle the world](https://cyclingho.me). I am always on the
-lookout for cool projects and especially funding, so don't hesitate to
-[contact](/contact/) me.
+[BIO]: https://www.uib.no/en/bio
+[UIB]: https://www.uib.no/en
 
 This website is built with [Jekyll](https://jekyllrb.com) and hosted on
 [Github Pages](https://pages.github.com). It is powered by
@@ -35,12 +24,25 @@ This website is built with [Jekyll](https://jekyllrb.com) and hosted on
 [Sleek](https://janczizikow.github.io/sleek) and an attempt to teach myself a
 little something about web development.
 
-## Previous positions
+## University positions
 
-| **2015--2020** | **Research associate**, ETH Zürich, Switzerland            |
-| **2018--2019** | **Visiting researcher**, Hokkaido Univ., Sapporo, Japan    |
-| **2014**       | **Visiting student**, GFZ Potsdam, Germany                 |
-| **2010--2014** | **Ph.D. candidate**, Stockholm Univ., Sweden               |
-| **2009**       | **Intern**, Univ. Joseph Fourier, Grenoble, France         |
-| **2008**       | **Intern**, Geological Survey of Norway, Trondheim, Norway |
-| **2007**       | **Intern**, Univ. Pierre et Marie Curie, Paris, France     |
+| **2022--now**  | **Postdoctoral research fellow**, [Bergen University][BIO], Norway.  |
+| **2015--2020** | **Research associate**, [ETH Zürich][ETHZ], Switzerland.             |
+| **2010--2014** | **Ph.D. candidate**, [Stockholm Univ.][SU], Sweden.                  |
+
+[ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
+[SU]: https://www.natgeo.su.se/english/
+
+## Visits and internships
+
+| **2018--2019** | **Visiting researcher**, [Hokkaido Univ.][HU], Sapporo, Japan.       |
+| **2014**       | **Visiting student**, [GFZ Potsdam][GFZ], Germany.                   |
+| **2009**       | **Intern**, [Univ. Joseph Fourier][UJF], Grenoble, France.           |
+| **2008**       | **Intern**, [Geological Survey of Norway][NGU], Trondheim, Norway.   |
+| **2007**       | **Intern**, [Univ. Pierre et Marie Curie][UPMC], Paris, France.      |
+
+[HU]: https://www.arc.hokudai.ac.jp/en/
+[GFZ]: https://www.gfz-potsdam.de/en/section/earth-system-modelling/
+[UJF]: https://www.isterre.fr/?lang=en
+[NGU]: https://www.ngu.no/en
+[UPMC]: http://www.istep.upmc.fr/
