@@ -4,21 +4,23 @@ permalink: /contact/
 
 ---
 
-To contact me you will need to decipher this little enigma (don't worry, it
-works). But before you write, I ask that you please go through the short FAQ
-section below.
+I am back to an institutional affiliation, a work space, and a regular income!
+This is my contact info until 2025. Please come visit, or get in touch.
 
-**Warning:** After a frustrating and soul-crushing nine-months-long
-[wait for Japan](/research-is-not-tourism-the-long-wait-for-japan/),
-I am slowly catching up on a long backlog of unanswered email. I mean to reply
-to all of you, but it will take time. Thank you for understanding!
-{: .notice--warning}
-
-**Email:**
-   *first name two first letters* +
-   *last name three first letters* + at +
-   *posteo* and then dot + *eu*.
 {: .notice}
+
+Email
+: *first name* + *last name* + at + uib.no
+
+Mail
+: Universitetet i Bergen \
+  Institutt for biovitenskap \
+  Postboks 7803 \
+  5020 Bergen, Norway
+
+Office
+: Thormølens gate 53 A, 2A09.1 \
+  5006 Bergen, Norway
 
 I read French, English, German and Swedish.
 
