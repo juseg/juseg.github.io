@@ -256,31 +256,37 @@ data products in publications.
 
 ## Reviews
 
+[5]
+: C. Del Gobbo, R. R. Colucci, G. Monegato, M. Žebre, and F. Giorgi.
+  Atmosphere-cryosphere interactions at 21 ka BP in the European Alps.
+  *Clim. Past Discuss.*
+  <https://doi.org/10.5194/cp-2022-43>, in review, 2022.
+
 [4]
-: J. K. Cuzzone, N.-J. Schlegel, M. Morlighem, E. Larour, J. P. Briner,
-  H. Seroussi, and C. Caron.
+: J. K. Cuzzone, N.-J. Schlegel, M. Morlighem, E. Larour, J. P. Briner,
+  H. Seroussi, and C. Caron.
   The impact of model resolution on the simulated Holocene retreat of the
   southwestern Greenland ice sheet using the Ice Sheet System Model (ISSM).
   *The Cryosphere*, 13:879-893,
   <https://doi.org/10.5194/tc-13-879-2019>, 2019.
 
 [3]
-: N. Gandy, J. J. Gregoire, J. C. Ely, C. D. Clark, D. M. Hodgson, V. Lee, T.
-  Bradwell, and R. F. Ivanovic.
+: N. Gandy, J. J. Gregoire, J. C. Ely, C. D. Clark, D. M. Hodgson, V. Lee, T.
+  Bradwell, and R. F. Ivanovic.
   Marine ice sheet instability and ice shelf buttressing of the Minch Ice
   Stream, northwest Scotland
   *The Cryosphere*,
   <https://doi.org/10.5194/tc-12-3635-2018>, 2018.
 
 [2]
-: M. Kavanagh and L. Tarasov.
+: M. Kavanagh and L. Tarasov.
   BrAHMs V1.0: a fast, physically based subglacial hydrology model for
   continental-scale application.
   *Geosci. Model Dev.*, 11:3497-3513,
   <https://doi.org/10.5194/gmd-11-3497-2018>, 2018.
 
 [1]
-: U. Ktebs-Kanzow, P. Gierz and G. Lohmann.
+: U. Ktebs-Kanzow, P. Gierz and G. Lohmann.
   Estimating Greenland surface melt is hampered by melt induced dampening of
   temperature variability.
   *J. Glaciol.*, 64(244):227-235,
