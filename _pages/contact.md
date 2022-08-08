@@ -10,7 +10,7 @@ This is my contact info until 2025. Please come visit, or get in touch.
 {: .notice}
 
 Email
-: *first name* + *last name* + at + uib.no
+: *first name* + dot + *last name* + at + uib.no
 
 Mail
 : Universitetet i Bergen \
