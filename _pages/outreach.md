@@ -71,6 +71,22 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
 
 ### Ongoing exhibitions
 
+15 Oct. -- 03 Dec. 2022
+: [Kultur Landschaft Obwalden](
+    https://www.kulturlandschaft-ow.ch/turbine-giswil-2022),
+  *Turbine*, Giswil.
+
+Since 6 Jun. 2020
+: Permanent exhibit, [*Säntis experiential world*](
+    https://saentisbahn.ch/en/the-experiential-world),
+  Hunwil, via [idee GmbH](http://www.idee.at).
+
+Since 23 Nov. 2019
+: Permanent exhibit, [*Archäologisches Museum Kanton Solothurn*](
+    https://hausdermuseen.ch/archaeologisches-museum), Olten.
+
+### Past exhibitions
+
 17 Jun. 2021 -- 23 Jan. 2022
 : [Froid](https://dev.lausanne-musees.ch/en_GB/exhibitions/froid),
   *Palais de Rumine*, Lausanne.
@@ -89,17 +105,6 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
     https://www.labiennale.org/en/architecture/2021/vogt-landscape-architects),
   *Giardini della Biennale*, Venice, via [ETH Zürich](https://vogt.arch.ethz.ch/en/)
   ([movie](https://www.youtube.com/watch?v=sC8CHTM6ZU0)).
-
-Since 6 Jun. 2020
-: Permanent exhibit, [*Säntis experiential world*](
-    https://saentisbahn.ch/en/the-experiential-world),
-  Hunwil, via [idee GmbH](http://www.idee.at).
-
-Since 23 Nov. 2019
-: Permanent exhibit, [*Archäologisches Museum Kanton Solothurn*](
-    https://hausdermuseen.ch/archaeologisches-museum), Olten.
-
-### Past exhibitions
 
 6 Oct. 2018 -- 3 Mar. 2019.
 : [Mémoire de glace: vestiges en péril](
