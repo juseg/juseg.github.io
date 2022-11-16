@@ -1,5 +1,11 @@
 ---
 title: Could we measure stress in glaciers?
+header:
+  teaser: "https://live.staticflickr.com/65535/49298343083_b4fc95b8a9_w.jpg"
+  image: "https://live.staticflickr.com/65535/49298343083_badf4828c0_h.jpg"
+  caption: "One of our borehole sites in dramatic weather in 2016"
+scripts:
+  - magnificpopup
 
 ---
 
@@ -9,14 +15,6 @@ can be measured is the stress response. While civil engineers inspect buildings
 for cracks, glaciologists monitor the gliding, flowing, and crevassing of
 glaciers in order to learn about their stress levels. But wait, glacier ice is
 not exactly a solid. So could glacier stress be measured after all?
-
-FIXME add photo and one or two figs.
-
-{% include figure.html
-   image=""
-   target=""
-   caption=""
-%}
 
 ## Freezing piezometers in Greenland
 
@@ -29,6 +27,11 @@ Alpine glacier, the instruments would remain in water. But in the Arctic,
 glaciers are much colder. Their temperature is below the freezing point, so
 that any hole, crevasse, water channel carved in the ice will eventually
 refreeze.
+
+{% include figure.html
+  image="https://live.staticflickr.com/65535/49298343083_b4fc95b8a9_w.jpg"
+  target="https://live.staticflickr.com/65535/49298343083_badf4828c0_h.jpg"
+  caption="Bowdoin Glacier borehole site in dramatic weather, July 2016" %}
 
 This process, however, can take up to a few months. For this reason, the units
 contained, among other sensors, piezometers. The piezometers were installed in
@@ -45,11 +48,12 @@ water level in the borehole, with a constant offset, corresponding to the water
 height between units. From these quantities I calculated the precise depth of
 each unit, and discarded the rest of the pressure data as garbage. Now that
 each unit had become enclosed in ice, I could focusing on other measurements,
-such as the ice temperature, and deformation measured by inclinometers.
+such as the ice, and deformation measured by inclinometers.
 
 ## An accidental discovery
 
-Two years later, I was preparing a publication on Bowdoin Glacier's temperature
+Two years later, I was preparing a publication on Bowdoin Glacier's
+[temperature](https://doi.org/10.3389/feart.2020.00065)
 record and struggling with a different part of the processing chain. I was
 stuck in my analysis, had been stuck for a couple of days. So one morning,
 completely at lost, I decided to deactivate all the data filtering steps I had
@@ -65,6 +69,12 @@ discarded data. There were recorded by the piezometers, or water-pressure
 sensors, long after all water was gone. There were ice-pressure wiggles, a
 direct measurement of glacier stress.
 
+{% include figure.html
+   image="../assets/png/bowstr_timeseries_w.png"
+   target="../assets/png/bowstr_timeseries_h.png"
+   caption="Bowdoin Glacier stress oscillations with a 12-hour period"
+   width=400px %}
+
 The piezometers, of course, had continued to record for the entire length of
 the experiment, for there is simply no easy way to turn things off on a remote
 glacier in Greenland, with no sunlight, and temperatures dropping into the
@@ -74,7 +84,7 @@ I have tons of excuses for it (such as lack of funding, or that little fact I
 prefer cycling to working when I am not paid) but the real issue is, that my
 colleagues and I have not yet been able to fully interpret the wiggles.
 
-## A stressful ice mystery
+## A stressful mystery
 
 Quickly I identified 12-hour, 24-hour and 14-day periodicities in the signal.
 These left no doubt on the nature of the signal, for these periods are the
@@ -94,6 +104,11 @@ was high, we recorded lower stresses, and when tide was high, the pressure went
 down. There seem to be a delay between low tide and peak stress, and this delay
 varies slightly from one sensor to the next.
 
+{% include figure.html
+   image="../assets/png/bowstr_boreholes_w.png"
+   target="../assets/png/bowstr_boreholes_h.png"
+   caption="The boreholes moved by about 1 km in three years" %}
+
 While I hope the Bowdoin data will eventually reveal a story, we might also
 never fully understand what happened. Our sensors were calibrated for water
 pressure, not ice pressure, and it would be difficult to quantify our
@@ -104,5 +119,5 @@ So could we directly measure stress in glaciers? I am not sure. But somehow I
 wonder whether there will be a day when we can just plug sensors in a glacier
 and directly measure the stress field. When I think of the recent hanging
 glacier collapses, or complex ice-ocean interactions that will set the pace of
-future sea-level rise, I can only imagine what kind of game changer it could
-become in field glaciology.
+future sea-level rise, I imagine it would be a real game changer in field
+glaciology.
