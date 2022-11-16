@@ -84,7 +84,7 @@ I have tons of excuses for it (such as lack of funding, or that little fact I
 prefer cycling to working when I am not paid) but the real issue is, that my
 colleagues and I have not yet been able to fully interpret the wiggles.
 
-## A stressful mystery
+## Still a stressful mystery
 
 Quickly I identified 12-hour, 24-hour and 14-day periodicities in the signal.
 These left no doubt on the nature of the signal, for these periods are the
@@ -95,6 +95,11 @@ glaciers after all. But our boreholes were drilled two kilometers away from the
 calving front. Do tidal back-pressure oscillations from ocean propagated all
 the way up here?
 
+{% include figure.html
+   image="../assets/png/bowstr_boreholes_w.png"
+   target="../assets/png/bowstr_boreholes_h.png"
+   caption="The boreholes moved by about 1 km in three years" %}
+
 This would be fascinating, but as I dived deeper into the analysis, I had to
 dismiss this hypothesis. Every 12 hours, Bowdoin Glacier gently pushed on
 our water-pressure sensors with an incredible regularity. Every 14 days, when
@@ -104,10 +109,10 @@ was high, we recorded lower stresses, and when tide was high, the pressure went
 down. There seem to be a delay between low tide and peak stress, and this delay
 varies slightly from one sensor to the next.
 
-{% include figure.html
-   image="../assets/png/bowstr_boreholes_w.png"
-   target="../assets/png/bowstr_boreholes_h.png"
-   caption="The boreholes moved by about 1 km in three years" %}
+{% include figure.html class="video"
+   image="https://i.vimeocdn.com/video/1093574824-dacd9ca4b6aa25cd591152a9c3b12139bc8f0f9066937eadd002f2dc1b19363e-d?mw=400"
+   target="https://vimeo.com/528346880"
+   caption="The stress anomalies follow the tide from a nearby station." %}
 
 While I hope the Bowdoin data will eventually reveal a story, we might also
 never fully understand what happened. Our sensors were calibrated for water
