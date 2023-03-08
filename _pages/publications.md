@@ -188,7 +188,7 @@ data products in publications.
 
   [data]
   : [Cordilleran ice sheet glacial cycle simulations continuous variables](
-      <https://doi.org/10.5281/zenodo.3606536>).
+      https://doi.org/10.5281/zenodo.3606536).
 
 [4]
 : **J. Seguinot**, C. Khroulev, I. Rogozhina, Q. Zhang, and A. P. Stroeven.
