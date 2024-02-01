@@ -30,10 +30,21 @@ data products in publications.
            in the Alps." %}
 {% endcapture %}
 
+[17]
+: A. Løkkegaard, K. D. Mankoff, C. Zdanowicz, G. D. Clow, M. P. Lüthi,
+  S. H. Doyle, H. H. Thomsen, D. Fisher, J. Harper, A. Aschwanden,
+  B. M. Vinther, D. Dahl-Jensen, H. Zekollari, T. Meierbachtol, I. McDowell,
+  N. Humphrey, A. Solgaard, N. B. Karlsson, S. A. Khan, B. Hills, R. Law,
+  B. Hubbard, P. Christoffersen, M. Jacquemart, **J. Seguinot**,
+  R. S. Fausto, and W. T. Colgan 
+  Greenland and Canadian Arctic ice temperature profiles database,
+  *The Cryosphere*, 17:3829–3845,
+  <https://doi.org/10.5194/tc-17-3829-2023>, 2023.
+
 [16]
 : **J. Seguinot** and I. Delaney.
   Last-glacial-cycle glacier erosion potential in the Alps.
-  *Earth Surf. Dynam.*, 9, 923–935,
+  *Earth Surf. Dynam.*, 9:923–935,
   <https://doi.org/10.5194/esurf-9-923-2021>, 2021.
 
   [data]
@@ -54,7 +65,7 @@ data products in publications.
 : E. C. H. van Dongen, G. Jouvet, S. Sugiyama, E. A .Podolskiy, M. Funk,
   D. I. Benn, F. Lindner, A. Bauder, **J. Seguinot**, S. Leinss, and F. Walter.
   Thinning leads to calving-style changes at Bowdoin Glacier, Greenland.
-  *The Cryosphere*, 15, 485–500,
+  *The Cryosphere*, 15:485–500,
   <https://doi.org/10.5194/tc-15-485-2021>, 2021.
 
   [data]
@@ -256,11 +267,18 @@ data products in publications.
 
 ## Reviews
 
-[5]
+[6]
 : C. Del Gobbo, R. R. Colucci, G. Monegato, M. Žebre, and F. Giorgi.
-  Atmosphere-cryosphere interactions at 21 ka BP in the European Alps.
-  *Clim. Past Discuss.*
-  <https://doi.org/10.5194/cp-2022-43>, in review, 2022.
+  Atmosphere–cryosphere interactions during the last phase of the Last Glacial
+  Maximum (21 ka) in the European Alps,
+  *Clim. Past*, 19:1805–1823,
+  <https://doi.org/10.5194/cp-19-1805-2023>, 2023.
+
+[5]
+: D. Moreno-Parada, J. Alvarez-Solas, J. Blasco, M. Montoya, and A. Robinson.
+  Simulating the Laurentide Ice Sheet of the Last Glacial Maximum,
+  *The Cryosphere*, 17:2139–2156,
+  <https://doi.org/10.5194/tc-17-2139-2023>, 2023.
 
 [4]
 : J. K. Cuzzone, N.-J. Schlegel, M. Morlighem, E. Larour, J. P. Briner,
