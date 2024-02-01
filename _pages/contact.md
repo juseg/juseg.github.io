@@ -4,23 +4,18 @@ permalink: /contact/
 
 ---
 
-I am back to an institutional affiliation, a work space, and a regular income!
-This is my contact info until 2025. Please come visit, or get in touch.
+I am in-between jobs, but hope to update this page with a new affiliation soon!
 
 {: .notice}
 
 Email
-: *first name* + dot + *last name* + at + uib.no
+: work *at* juseg.dev
 
 Mail
-: Universitetet i Bergen \
-  Institutt for biovitenskap \
-  Postboks 7803 \
-  5020 Bergen, Norway
+: *Coming soon...*
 
 Office
-: Thormølens gate 53 A, 2A09.1 \
-  5006 Bergen, Norway
+: *Coming soon...*
 
 I read French, English, German and Swedish.
 
@@ -39,6 +34,3 @@ Can you send the data for your paper?
   [Zenodo](https://zenodo.org). The links can be found in my
   [publications](/publications/) list.
   Of course, if data you need are missing, please ask.
-
-Are you looking for a job?
-: No. I have got a job now. More on that in the blog soon.
