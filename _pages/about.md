@@ -9,11 +9,11 @@ author_profile: true
   image="https://live.staticflickr.com/65535/48936931001_6701ea0f7d_m.jpg" %}
 
 Thank you for taking a look at my homepage. I am a computational geoscientist
-with a passion for glacial landscapes, currently in-between jobs. I have used
+with a passion for glacial landscapes, currently working at the [Department of
+Water and Climate](HYDR) at the Vrije Universiteit Brussel (VUB). I have used
 Python programming, high-performance computing (of glaciers dynamics) and
 fieldwork in remote environments (of the North American Cordillera and
 Greenland) to try and understand glacier changes past and present.
-
 
 This website is built with [Jekyll](https://jekyllrb.com) and hosted on
 [Github Pages](https://pages.github.com). It is powered by
@@ -23,11 +23,12 @@ little something about web development.
 
 ## University positions
 
-| **2024--**     | *Coming soon...* |
-| **2022--2023** | **Postdoctoral research fellow**, [Bergen University][UIB], Norway.  |
-| **2015--2020** | **Research associate**, [ETH Zürich][ETHZ], Switzerland.             |
-| **2010--2014** | **Ph.D. candidate**, [Stockholm Univ.][SU], Sweden.                  |
+| **2024--2027** | **Postdoc fellow**, [Vrije Universiteit Brussel][HYDR], Belgium. |
+| **2022--2023** | **Postdoc fellow**, [Bergen University][UIB], Norway.            |
+| **2015--2020** | **Research associate**, [ETH Zürich][ETHZ], Switzerland.         |
+| **2010--2014** | **Ph.D. candidate**, [Stockholm Univ.][SU], Sweden.              |
 
+[VUB]: https://hydr.vub.be
 [UIB]: https://www.uib.no/en/bio
 [ETHZ]: https://vaw.ethz.ch/en/research/glaciology.html
 [SU]: https://www.natgeo.su.se/english/
