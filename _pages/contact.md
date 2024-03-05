@@ -4,18 +4,16 @@ permalink: /contact/
 
 ---
 
-I am in-between jobs, but hope to update this page with a new affiliation soon!
-
 {: .notice}
-
 Email
-: work *at* juseg.dev
-
-Mail
-: *Coming soon...*
+: julien *dot* seguinot *at* vub.be
 
 Office
-: *Coming soon...*
+: Department of Water and Climate, T.2.55
+: Vrije Universiteit Brussel
+: Pleinlaan 2,
+: 1050 Brussel
+: Belgium
 
 I read French, English, German and Swedish.
 
