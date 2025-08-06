@@ -30,6 +30,24 @@ data products in publications.
            in the Alps." %}
 {% endcapture %}
 
+[19]
+: E. S. Rentier, O. Mottl, L. C. Pacheco-Riaño, L. Schultz, **J. Seguinot**,
+  A. T. Wiersma, J. - A. Grytnes, and S. G. Flantua. 
+  Global variability in LGM cooling amongst paleoclimate datasets affects biome
+  reconstructions in mountains.
+  *Front. Biogeo.*  18:e135871,
+  <https://doi.org/10.21425/fob.18.135871>, 2025.
+
+[18]
+: E. Legrain, V. Tollenaar, S. Goderis, L. Ardoin, P. Blard, P. Claeys,
+  R. Cordero, V. Debaille, F. Fripiat, P. Huybrechts, N. Imae, M. Izeboud,
+  F. Pattyn, H. Pourkhorsandi, **J. Seguinot**, N. Shirai, M. V. Cappellen,
+  M. V. Ginneken, S. Wauthy, A. Yamaguchi, M. Yesiltas, and H. Zekollari.
+  Absence of Elevation-Dependent Warming in Antarctica inferred from Blue Ice
+  Paleoclimate Records.
+  *Geophys. Res. Lett.* 52(9):p.e2024GL113165,
+  <https://doi.org/10.1029/2024GL113165>, 2025.
+
 [17]
 : A. Løkkegaard, K. D. Mankoff, C. Zdanowicz, G. D. Clow, M. P. Lüthi,
   S. H. Doyle, H. H. Thomsen, D. Fisher, J. Harper, A. Aschwanden,
