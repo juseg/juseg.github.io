@@ -71,10 +71,29 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
 
 ### Ongoing exhibitions
 
-15 Oct. -- 03 Dec. 2022
-: [Kultur Landschaft Obwalden](
-    https://www.kulturlandschaft-ow.ch/turbine-giswil-2022),
-  *Turbine*, Giswil.
+2 Oct. 2025 -- 19 Apr. 2026
+: Eiszeit, *[See Museum](https://seemuseum.ch)*, Kreuzlingen.
+
+25 Oct. 2025 -- 15 Mar. 2026
+: [Eiszeit -- Leben vor 17'000 Jahren](
+    https://allerheiligen.ch/ausstellungen/ausstellung/eiszeit/),
+  *Museum zu Allerheiligen*, Schaffhausen.
+
+29 Aug. 2025 -- 12 Jul. 2026
+: [Deglaciation – surveying the ice](
+    https://library.ethz.ch/en/news-and-courses/news/news-articles/2025/07/deglaciation-surveying-the-ice.html),
+  *ETH Zurich*.
+
+Since 21 May 2024
+: [Ice Age children and their world](
+    https://www.nhm.at/en/exhibitions/permanent_exhibitions/ice_age_children),
+  *Natural History Museum*, Vienna.
+
+Since 11 Oct. 2023
+: [Alpine -- 7000 years of history](
+    https://musees.isere.fr/expo/musee-dauphinois-alpins-7000-ans-dhistoires),
+  *Dauphinois Museum*, Grenoble
+  ([movie](https://www.youtube.com/watch?v=6-GrRrrkE3s)).
 
 Since 6 Jun. 2020
 : Permanent exhibit, [*Säntis experiential world*](
@@ -86,6 +105,11 @@ Since 23 Nov. 2019
     https://hausdermuseen.ch/archaeologisches-museum), Olten.
 
 ### Past exhibitions
+
+15 Oct. -- 03 Dec. 2022
+: [Kultur Landschaft Obwalden](
+    https://www.kulturlandschaft-ow.ch/turbine-giswil-2022),
+  *Turbine*, Giswil.
 
 17 Jun. 2021 -- 23 Jan. 2022
 : [Froid](https://dev.lausanne-musees.ch/en_GB/exhibitions/froid),
