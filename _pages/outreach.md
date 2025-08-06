@@ -61,12 +61,12 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
 
 ### To be confirmed
 
+* [Mammum Museum](https://www.mammutmuseum.ch/), Niederweningen.
 * [South Tyrol Museum of Archaeology](https://www.iceman.it/en),
   via [Geoville](https://www.geoville.com).
 * An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
 * National Geographic via [doc.station](https://www.docstation.de).
 * A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
-* New exhibition at the [Glacier Garden Lucerne](https://gletschergarten.ch/en).
 * Parc National du Mercantour.
 
 ### Ongoing exhibitions
