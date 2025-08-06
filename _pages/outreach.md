@@ -165,6 +165,11 @@ Since 23 Nov. 2019
 
 ## Derived works
 
+* [The Icy Planet](https://academic.oup.com/book/45398), a book by Colin
+  Summerhayes at *Oxford University Press*.
+* [Zürich Nord im Wandel der Zeit](
+    https://www.scheidegger-spiess.ch/produkt/zuerich-nord/541), a book by
+  Simone Ulmer and others at *Scheidegger & Spiess*.
 * [Stereoscopic Time Machine "Alpenblick"](
     https://samuelbucheli.myportfolio.com/stereoscopic-time-machine-alpenblick),
   augmented reality for the [Glacier Garden Lucerne](
