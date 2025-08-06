@@ -59,16 +59,6 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
   image="/assets/photos/julien-n7p-191122-174840-dev-320x320.jpg"
   caption="Arch. Museum Solothurn" %}
 
-### To be confirmed
-
-* [Mammum Museum](https://www.mammutmuseum.ch/), Niederweningen.
-* [South Tyrol Museum of Archaeology](https://www.iceman.it/en),
-  via [Geoville](https://www.geoville.com).
-* An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
-* National Geographic via [doc.station](https://www.docstation.de).
-* A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
-* Parc National du Mercantour.
-
 ### Ongoing exhibitions
 
 2 Oct. 2025 -- 19 Apr. 2026
@@ -176,3 +166,13 @@ Since 23 Nov. 2019
     https://gletschergarten.ch) by Samuel J. Bucheli, 2021.
 * *À La Rencontre Des Lieux Sacrés En Valais*, documentary by Suzana Mistro shown at several movie festivals in Switzerland during summer 2021
   ([trailer](https://www.youtube.com/watch?v=0qmu3VL-QYA), [cinesion](https://www.cinesion.ch/resume?movie=2836)).
+
+### Unconfirmed
+
+* [Mammum Museum](https://www.mammutmuseum.ch/), Niederweningen.
+* [South Tyrol Museum of Archaeology](https://www.iceman.it/en),
+  via [Geoville](https://www.geoville.com).
+* An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
+* National Geographic via [doc.station](https://www.docstation.de).
+* A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
+* Parc National du Mercantour.
