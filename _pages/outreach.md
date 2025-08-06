@@ -106,10 +106,27 @@ Since 23 Nov. 2019
 
 ### Past exhibitions
 
+21 -- 22 Dec. 2023
+: [SUB ZERO](https://xenorama.com/curation-of-sub-zero-exhibition/),
+  *Waschhaus Arena*, Potsdam.
+
 15 Oct. -- 03 Dec. 2022
 : [Kultur Landschaft Obwalden](
     https://www.kulturlandschaft-ow.ch/turbine-giswil-2022),
   *Turbine*, Giswil.
+
+6 Mai -- 29 Oct. 2023
+: [Höhlenbären und Neandertaler im Drachenloch – Pionierarchäologie vor 100 Jahren](
+    https://www.kulturmuseumsg.ch/ausstellungen/Drachenloch2023.php)
+
+17 Sep. 2022 -- 2 Sep. 2023
+: [Glaciers, une aventure scientifique](
+    https://www.chambery.fr/560-archives-expositions.htm#par51009),
+  *Galerie Eurêka*, Chambéry
+  ([flyer](
+    https://www.chambery.fr/cms_viewFile.php?idtf=32053&path=Flyer-Glacier.pdf),
+  [journal](
+    https://www.chambery.fr/cms_viewFile.php?idtf=37553&path=Journal-de-l-exposition-Glaciers.pdf)).
 
 17 Jun. 2021 -- 23 Jan. 2022
 : [Froid](https://dev.lausanne-musees.ch/en_GB/exhibitions/froid),
