@@ -59,22 +59,31 @@ to [get in touch](/contact/) and send photos. It will be hugely appreciated!
   image="/assets/photos/julien-n7p-191122-174840-dev-320x320.jpg"
   caption="Arch. Museum Solothurn" %}
 
-### To be confirmed
-
-* [South Tyrol Museum of Archaeology](https://www.iceman.it/en),
-  via [Geoville](https://www.geoville.com).
-* An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
-* National Geographic via [doc.station](https://www.docstation.de).
-* A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
-* New exhibition at the [Glacier Garden Lucerne](https://gletschergarten.ch/en).
-* Parc National du Mercantour.
-
 ### Ongoing exhibitions
 
-15 Oct. -- 03 Dec. 2022
-: [Kultur Landschaft Obwalden](
-    https://www.kulturlandschaft-ow.ch/turbine-giswil-2022),
-  *Turbine*, Giswil.
+2 Oct. 2025 -- 19 Apr. 2026
+: Eiszeit, *[See Museum](https://seemuseum.ch)*, Kreuzlingen.
+
+25 Oct. 2025 -- 15 Mar. 2026
+: [Eiszeit -- Leben vor 17'000 Jahren](
+    https://allerheiligen.ch/ausstellungen/ausstellung/eiszeit/),
+  *Museum zu Allerheiligen*, Schaffhausen.
+
+29 Aug. 2025 -- 12 Jul. 2026
+: [Deglaciation – surveying the ice](
+    https://library.ethz.ch/en/news-and-courses/news/news-articles/2025/07/deglaciation-surveying-the-ice.html),
+  *ETH Zurich*.
+
+Since 21 May 2024
+: [Ice Age children and their world](
+    https://www.nhm.at/en/exhibitions/permanent_exhibitions/ice_age_children),
+  *Natural History Museum*, Vienna.
+
+Since 11 Oct. 2023
+: [Alpine -- 7000 years of history](
+    https://musees.isere.fr/expo/musee-dauphinois-alpins-7000-ans-dhistoires),
+  *Dauphinois Museum*, Grenoble
+  ([movie](https://www.youtube.com/watch?v=6-GrRrrkE3s)).
 
 Since 6 Jun. 2020
 : Permanent exhibit, [*Säntis experiential world*](
@@ -86,6 +95,28 @@ Since 23 Nov. 2019
     https://hausdermuseen.ch/archaeologisches-museum), Olten.
 
 ### Past exhibitions
+
+21 -- 22 Dec. 2023
+: [SUB ZERO](https://xenorama.com/curation-of-sub-zero-exhibition/),
+  *Waschhaus Arena*, Potsdam.
+
+15 Oct. -- 03 Dec. 2022
+: [Kultur Landschaft Obwalden](
+    https://www.kulturlandschaft-ow.ch/turbine-giswil-2022),
+  *Turbine*, Giswil.
+
+6 Mai -- 29 Oct. 2023
+: [Höhlenbären und Neandertaler im Drachenloch – Pionierarchäologie vor 100 Jahren](
+    https://www.kulturmuseumsg.ch/ausstellungen/Drachenloch2023.php)
+
+17 Sep. 2022 -- 2 Sep. 2023
+: [Glaciers, une aventure scientifique](
+    https://www.chambery.fr/560-archives-expositions.htm#par51009),
+  *Galerie Eurêka*, Chambéry
+  ([flyer](
+    https://www.chambery.fr/cms_viewFile.php?idtf=32053&path=Flyer-Glacier.pdf),
+  [journal](
+    https://www.chambery.fr/cms_viewFile.php?idtf=37553&path=Journal-de-l-exposition-Glaciers.pdf)).
 
 17 Jun. 2021 -- 23 Jan. 2022
 : [Froid](https://dev.lausanne-musees.ch/en_GB/exhibitions/froid),
@@ -124,9 +155,24 @@ Since 23 Nov. 2019
 
 ## Derived works
 
+* [The Icy Planet](https://academic.oup.com/book/45398), a book by Colin
+  Summerhayes at *Oxford University Press*.
+* [Zürich Nord im Wandel der Zeit](
+    https://www.scheidegger-spiess.ch/produkt/zuerich-nord/541), a book by
+  Simone Ulmer and others at *Scheidegger & Spiess*.
 * [Stereoscopic Time Machine "Alpenblick"](
     https://samuelbucheli.myportfolio.com/stereoscopic-time-machine-alpenblick),
   augmented reality for the [Glacier Garden Lucerne](
     https://gletschergarten.ch) by Samuel J. Bucheli, 2021.
 * *À La Rencontre Des Lieux Sacrés En Valais*, documentary by Suzana Mistro shown at several movie festivals in Switzerland during summer 2021
   ([trailer](https://www.youtube.com/watch?v=0qmu3VL-QYA), [cinesion](https://www.cinesion.ch/resume?movie=2836)).
+
+### Unconfirmed
+
+* [Mammum Museum](https://www.mammutmuseum.ch/), Niederweningen.
+* [South Tyrol Museum of Archaeology](https://www.iceman.it/en),
+  via [Geoville](https://www.geoville.com).
+* An information board in Ballwil gravel pit via [Canton Lucerne](http://www.da.lu.ch).
+* National Geographic via [doc.station](https://www.docstation.de).
+* A cable car in Engadin, via [ikonaut GmbH](https://www.ikonaut.ch).
+* Parc National du Mercantour.
